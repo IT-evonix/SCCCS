@@ -56,7 +56,7 @@
                         <button class="nav-link" id="gallery_tabbing6" data-bs-toggle="pill" data-bs-target="#gallerytabbing6" type="button" role="tab" aria-controls="gallerytabbing6" aria-selected="false">Events and Meetings</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="gallery_tabbing7" data-bs-toggle="pill" data-bs-target="#gallerytabbing7" type="button" role="tab" aria-controls="gallerytabbing7" aria-selected="false">Research and Field Work</button>
+                        <button class="nav-link" id="gallery_tabbing7" data-bs-toggle="pill" data-bs-target="#gallerytabbing7" type="button" role="tab" aria-controls="gallerytabbing7" aria-selected="false">Field Work</button>
                     </li>
                 </ul>
                 <div class="tab-content infrastructure_tab" id="pills-tabContent">

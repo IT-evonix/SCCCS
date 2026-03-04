@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>Events Calendar</h1>
+                        <h1>Visiting Scholars/Faculty</h1>
                     </div>
                 </div>
             </div>
@@ -25,8 +25,8 @@
         <div class="container">
             <ul>
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
-                <li>Media & Activity</li> /
-                <li>Events Calendar</li>
+                <li>People</li> /
+                <li>Visiting Scholars/Faculty</li>
             </ul>
         </div>
      </div>

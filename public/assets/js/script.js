@@ -119,7 +119,7 @@ $('.hero_slider_inner').owlCarousel({
     loop: true,
     margin: 0,
     dots: false,
-    nav: false,
+    nav: true,
     autoplay: true,
     autoplayTimeout: 3000,          // continuous sliding (very important)
     responsive: {

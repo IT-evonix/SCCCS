@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>Events Calendar</h1>
+                        <h1>Visitors to SCCCS</h1>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
             <ul>
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
                 <li>Media & Activity</li> /
-                <li>Events Calendar</li>
+                <li>Visitors to SCCCS</li>
             </ul>
         </div>
      </div>

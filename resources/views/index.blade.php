@@ -5,28 +5,43 @@
         <div class="hero_slider_inner owl-carousel">
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/banner3.webp') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/banner3.webp') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/banner3.webp') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
                 </div>
             </div>
+            <!-- <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img src="{{ asset('assets/images/banners/Banner-Option.jpeg') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img src="{{ asset('assets/images/banners/Banner-Option-5.jpeg') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img src="{{ asset('assets/images/banners/Banner-Option-6.jpeg') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div> -->
         </div>
     </div>
     <!-- BANNER SECTION END -->
 
     <!-- Announcement Start -->
     <div class="announcement_sec">
+        <div class="announcement_head"><img src="{{ asset('assets/images/announcement.webp') }}" alt=""> Latest Announcement</div>
         <marquee behavior="scroll" direction="left">
-            <img src="{{ asset('assets/images/announcement.webp') }}" alt="">
-            <span>Latest Announcement: Admissions are now open. Apply before 30th December!</span>
+            <span>Admissions are now open. Apply before 30th December!</span>
         </marquee>
     </div>
     <!-- Announcement End -->

@@ -92,10 +92,10 @@
                         </div> -->
                         <ul class="sidebar-menu">
                             <li><a href="#overview" class="active">Overview</a></li>
-                            <li><a href="#mission">Our Mission</a></li>
+                            <li><a href="#mission">Focus Area</a></li>
                             <li><a href="#campus-biodiversity">Campus Biodiversity</a></li>
                             <li><a href="#our-approach">Our Approach</a></li>
-                            <li><a href="#our-flagship-initiative">Our Flagship Initiative</a></li>
+                            <li><a href="#our-flagship-initiative">Campus in Focus</a></li>
                             <li><a href="#join-our-biodiversity-whatsApp-group">Join Our Biodiversity WhatsApp Group</a></li>
                             <li><a href="#current-research-projects">Current Research Projects</a></li>
                             <li><a href="#publications">Publications</a></li>
@@ -135,7 +135,7 @@
                     <!-- Mission -->
                     <section class="vision_and_mission_section vision_sec scroll_margin" id="mission">
                     <div class="vision_and_mission_inner">
-                        <div class="heading">Our Mission</div>
+                        <div class="heading">Focus Area</div>
                         <p>The Biodiversity Wing is dedicated to documenting and preserving biodiversity while spreading awareness among the Symbiosis community—students, staff, and faculty alike. Through citizen science platforms, we facilitate greater participation from the campus community, enabling us to identify and prioritize critical conservation areas. Our approach combines scientific rigor with community engagement to create lasting impact.</p>
                     </div>
                     </section>
@@ -330,7 +330,7 @@
                     </section>
 
                     <section class="our_flagship_section scroll_margin" id="our-flagship-initiative">
-                        <div class="heading">Our flagship Initiative</div>
+                        <div class="heading">Campus in Focus</div>
                             <div class="subheading">Nature Photography Competition 2025</div>
                             <div class="flagshipbox biopadding">
                                 <div class="flagleft">

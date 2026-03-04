@@ -110,7 +110,7 @@
                             <th scope="col">#</th>
                             <th scope="col">Title</th>
                             <th scope="col">Journal</th>
-                            <th scope="col">Author</th>
+                            <th scope="col">Authors from SCCCS</th>
                             <th scope="col">Year</th>
                         </tr>
                     </thead>
@@ -273,7 +273,7 @@
                             <th scope="row">23</th>
                             <td><a target="_blank" href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174620290&doi=10.1080%2f10889868.2023.2269193&partnerID=40&md5=6bdbdaabe30544c3583b0d85212ab7df">Effect of biosurfactant on thiocyanate degradation by automobile service station soil isolates Brachybacterium sp. and Bacillus albus</a></td>
                             <td>Bioremediation Journal</td>
-                            <td>Prakash Rao</td>
+                            <td>Om Prakash</td>
                             <td>2023</td>
                         </tr>
                         <tr>
@@ -294,7 +294,7 @@
                             <th scope="row">26</th>
                             <td><a target="_blank" href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147895475&doi=10.1007%2fs11274-023-03543-1&partnerID=40&md5=333f650aecda1c9e1380a816efb44dd2">Endophytic microbiota of floating aquatic plants: recent developments and environmental prospects</a></td>
                             <td>World Journal of Microbiology and Biotechnology</td>
-                            <td>Prakash Rao</td>
+                            <td>Om Prakash</td>
                             <td>2023</td>
                         </tr>
                         <tr>
@@ -308,14 +308,14 @@
                             <th scope="row">28</th>
                             <td><a target="_blank" href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163074668&doi=10.1007%2fs12038-023-00337-3&partnerID=40&md5=e9ff7289a999e3ff9c800afa458e3986">Human small-intestinal gluten-degrading bacteria and its potential implication in celiac disease</a></td>
                             <td>Journal of Biosciences</td>
-                            <td>Prakash Rao</td>
+                            <td>Om Prakash</td>
                             <td>2023</td>
                         </tr>
                         <tr>
                             <th scope="row">29</th>
                             <td><a target="_blank" href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172373662&doi=10.1016%2fj.envres.2023.117140&partnerID=40&md5=629faeecddf2af3284a242e088469e41">Microbial diversity characterizations, associated pathogenesis and antimicrobial resistance profiling of Najafgarh drain</a></td>
                             <td>Environmental Research</td>
-                            <td>Prakash Rao</td>
+                            <td>Om Prakash</td>
                             <td>2023</td>
                         </tr>
                         <tr>

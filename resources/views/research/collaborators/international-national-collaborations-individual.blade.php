@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>Events Calendar</h1>
+                        <h1>International / National Collaborations -Individual</h1>
                     </div>
                 </div>
             </div>
@@ -25,8 +25,9 @@
         <div class="container">
             <ul>
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
-                <li>Media & Activity</li> /
-                <li>Events Calendar</li>
+                <li>Research</li> /
+                <li>Collaborators</li> /
+                <li>International / National Collaborations -Individual</li>
             </ul>
         </div>
      </div>
@@ -42,4 +43,3 @@
     </div>
 </main>
 @include('footer')
-

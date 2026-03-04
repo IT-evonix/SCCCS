@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>Afshan Ahmed</h1>
+                        <h1>Afshan Ahmad</h1>
                     </div>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
                 
                 <li>People</li> /
-                <li>Afshan Ahmed</li>
+                <li>Afshan Ahmad</li>
             </ul>
         </div>
      </div>
@@ -51,7 +51,7 @@
                     <div class="profile_intro">
                         <div class="div">
                             <div class="profile_heading heading">
-                                Afshan Ahmed
+                                Afshan Ahmad
                             </div>
                             <div class="profile_position">Research Assistant</div>
                         </div>

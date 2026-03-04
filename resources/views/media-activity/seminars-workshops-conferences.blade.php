@@ -25,7 +25,7 @@
         <div class="container">
             <ul>
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
-                <li>Media Activity</li> /
+                <li>Media & Activity</li> /
                 <li>Seminars Workshops Conferences</li>
             </ul>
         </div>

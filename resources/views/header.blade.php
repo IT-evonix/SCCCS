@@ -97,6 +97,12 @@
 														<li class="menu-item">
 															<a target="_blank" href="<?= url('https://www.siu.edu.in/about-us/why-us/health-promoting-university'); ?>">Health Promoting Initiatives </a>
 														</li>	
+														<li class="menu-item">
+															<a target="_blank" href="<?= url('https://www.symbiosis-ambedkarmemorial.org'); ?>">Dr. Babasaheb Ambedkar Museum & Memorial </a>
+														</li>
+														<li class="menu-item">
+															<a target="_blank" href="<?= url('https://afroasian.symbiosis.ac.in'); ?>">Afro-Asian Cultural Museum </a>
+														</li>
 													</ul>
 												</li>
 
@@ -110,7 +116,7 @@
 											</ul>
 										</li>
 										<li class="menu-item menu-item-has-children">
-											<a href="#">Research</a>
+											<a href="#">Focus Areas</a>
 											<ul class="sub-menu">
 												<!-- <li class="menu-item">
 													<a href="<?= url('/areas-of-research'); ?>">Research Areas</a>
@@ -128,7 +134,7 @@
 															<a href="<?= url('/areas-of-research/bioenergy-and-carbon-capture'); ?>">Bioenergy & Carbon Capture</a>
 														</li>
 														<li class="menu-item">
-															<a href="<?= url('/areas-of-research/biodiversity-and-waste-management'); ?>">Biodiversity & Waste Management</a>
+															<a href="<?= url('/areas-of-research/biodiversity-and-waste-management'); ?>">Biodiversity Conservation</a>
 														</li>
 														<li class="menu-item">
 															<a href="<?= url('/areas-of-research/sustainable-agriculture-and-carbon-mitigation'); ?>">Sustainable Agriculture & Carbon Mitigation</a>
@@ -165,10 +171,10 @@
 													<a href="#">Collaborators</a>
 													<ul class="sub-menu">
 														<li class="menu-item">
-															<a target="_blank" href="<?= url('/institutional-partners'); ?>">Institutional Partners</a>
+															<a href="<?= url('/institutional-partners'); ?>">Institutional Partners</a>
 														</li>
 														<li class="menu-item">
-															<a href="<?= url('/collaborators'); ?>">International / National Collaborations -Individual</a>
+															<a href="<?= url('/international-national-collaborations-individual'); ?>">International / National Collaborations -Individual</a>
 														</li>
 													</ul>
 												</li>
@@ -188,6 +194,9 @@
 														</li>
 													</ul>
 												</li>
+												<li class="menu-item">
+													<a href="<?= url('/visiting-scholars-faculty'); ?>">Visiting Scholars/ Faculty</a>
+												</li>
 												<li class="menu-item menu-item-has-children">
 													<a href="#">Staff</a>
 													<ul class="sub-menu">
@@ -203,12 +212,12 @@
 															<a target="_blank" href="<?= url('/ankita-chopra'); ?>">Ankita Chopra</a>
 														</li>
 														<li class="menu-item">
-															<a href="<?= url('/shumaila-ishtiaq'); ?>">Shumailah Ishtiyaq</a>
+															<a href="<?= url('/shumailah-ishtiyaq'); ?>">Shumailah Ishtiyaq</a>
 														</li>
 													</ul>
 												</li>
 												<li class="menu-item menu-item-has-children">
-													<a href="#">Research Associate</a>
+													<a href="#">PostDoc/ Research Associate</a>
 													<ul class="sub-menu">
 														<li class="menu-item">
 															<a href="<?= url('/abhijit-kulkarni'); ?>">Abhijit Kulkarni</a>
@@ -257,7 +266,7 @@
 															<a href="<?= url('/avishkar-munje'); ?>">Avishkar Munje</a>
 														</li>
 														<li class="menu-item">
-															<a href="<?= url('/afshan-ahmed'); ?>">Afshan Ahmed</a>
+															<a href="<?= url('/afshan-ahmad'); ?>">Afshan Ahmad</a>
 														</li>
 													</ul>
 												</li>
@@ -317,6 +326,9 @@
 												</li>
 												<li class="menu-item">
 													<a href="<?= url('/seminars-workshops-conferences'); ?>">Seminars / Workshops / Conferences</a>
+												</li>
+												<li class="menu-item">
+													<a href="<?= url('/visitors-to-scccs'); ?>">Visitors to SCCCS</a>
 												</li>
 											</ul>
 										</li>
