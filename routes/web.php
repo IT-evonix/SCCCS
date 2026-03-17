@@ -380,6 +380,23 @@ Route::get('/alumni', function () {
     $data_arr['canonical'] = "";
     return view('people.alumni', ['data_arr' => $data_arr]);
 });
+Route::get('/interns', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Interns";
+    $data_arr['keywords'] = "Interns";
+    $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+    $data_arr['canonical'] = "";
+    return view('people.interns', ['data_arr' => $data_arr]);
+});
+// Route::get('/anushka-awad', function () {
+//     $data_arr = array();
+//     $data_arr['title'] = "Interns";
+//     $data_arr['keywords'] = "Interns";
+//     $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+//     $data_arr['canonical'] = "";
+//     return view('people.anushka-awad', ['data_arr' => $data_arr]);
+// });
+
 // Faculty End
 
 Route::get('/sustainability-initiatives', function () {

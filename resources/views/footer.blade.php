@@ -34,7 +34,7 @@
                                 <li><a href="<?= url('/head-of-centre'); ?>">People</a></li>
                                 <li><a target="_blank" href="<?= url('https://scri.siu.edu.in/'); ?>">PhD Program</a></li>
                                 <li><a href="<?= url('/projects-and-grants'); ?>">Projects</a></li>
-                                <li><a href="<?= url('/areas-of-research'); ?>">Research</a></li>
+                                <li><a href="<?= url('/areas-of-research/one-health'); ?>">Research</a></li>
                                 <li><a href="<?= url('/news'); ?>">News and Events</a></li>
                                 <li><a href="<?= url('/contact-us'); ?>">Contact us</a></li>
                             </ul>

@@ -74,12 +74,12 @@
                                     Title: Constructed Wetlands for Wastewater Remediation
                                 </div>
                                 <div class="count_text">
-                                    <div class="count_num">2</div> <div>Funding Agency- <span>Department of Biotechnology (DBT)-BioCare</span></div><div class="seprator">|</div><div>Sanction Year- <span>2025</span></div><div class="seprator">|</div><div> <span>PI - Shumaila Ishtiaq</span></div>
+                                    <div class="count_num">2</div> <div>Funding Agency- <span>Department of Biotechnology (DBT)-BioCare</span></div><div class="seprator">|</div><div>Sanction Year- <span>2025</span></div><div class="seprator">|</div><div> <span>PI - Shumailah Ishtiyaq</span></div>
                                 </div>
                             </div>
                             <div class="projects_and_grants_right">
                                 <div class="project_details">
-                                    <h6>Amount (INR)</h6> <div class="project_amount">52 Lakhs</div>
+                                    <h6>Amount (INR)</h6> <div class="project_amount">48.75 Lakhs</div>
                                 </div>
                             </div>
                         </div>

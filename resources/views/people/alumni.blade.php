@@ -1,3 +1,4 @@
+
 @include('header')
 <main class="main">
     <!-- BANNER SECTION START -->
@@ -35,32 +36,31 @@
         <section class="alumni-section">
             <h2 class="heading">Our Alumni</h2>
             <div class="alumni-container">
-                <!-- Alumni 1 -->
-                <div class="alumni-card">
-                    <h3 class="subheading">lorem ipsum</h3>
-                    <div class="social-links">
-                        <a href="#"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="Linkdian"></a>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="alumni-card">
+                            <div class="alumi-image-wrapper">
+                                <img src="{{ asset('assets/images/gallery/alumi/VISHWA.webp') }}" alt="Vishwa Raulji" class="alumni-image">
+                            </div>
+                            <h3 class="subheading">Vishwa Raulji</h3>
+                            <p><strong>M.Sc Dissertation Trainee - 2025</strong></p>
+                            <div class="social-links">
+                                <a href="https://www.linkedin.com/in/vishwa-raulji-114513349/"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="Linkdian"></a>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <!-- Alumni 2 -->
-                <div class="alumni-card">
-                    <h3 class="subheading">lorem ipsum</h3>
-                    <div class="social-links">
-                        <a href="#"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="Linkdian"></a>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="alumni-card">
+                            <div class="alumi-image-wrapper">
+                                <img src="{{ asset('assets/images/gallery/alumi/AASHISH.webp') }}" alt="Ashish Ujalambe" class="alumni-image">
+                            </div>
+                            <h3 class="subheading">Ashish Ujalambe</h3>
+                            <p><strong>Illustrator and Graphic Designer Trainee in Science Communication - April - Dec 2025</strong></p>
+                            <div class="social-links">
+                                <a href="https://www.linkedin.com/in/ashish-ujalambe-694769318/"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="Linkdian"></a>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <!-- Alumni 3 -->
-                <div class="alumni-card">
-                    <h3 class="subheading">lorem ipsum</h3>
-                    <div class="social-links">
-                        <a href="#"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="Linkdian"></a>
-                    </div>
-                </div>
-                <!-- Alumni 4 -->
-                <div class="alumni-card">
-                    <h3 class="subheading">lorem ipsum</h3>
-                    <div class="social-links">
-                        <a href="#"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="Linkdian"></a>
                     </div>
                 </div>
             </div>

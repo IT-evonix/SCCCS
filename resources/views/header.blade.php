@@ -281,13 +281,8 @@
 														</li>
 													</ul>
 												</li>
-												<li class="menu-item menu-item-has-children">
-													<a href="#">Interns</a>
-													<ul class="sub-menu">
-														<li class="menu-item">
-															<a href="<?= url('/coming-soon'); ?>">Vishwa Raulji</a>
-														</li>
-													</ul>
+												<li class="menu-item">
+													<a href="<?= url('/interns'); ?>">Interns</a>
 												</li>
 												<li class="menu-item">
 													<a href="<?= url('/alumni'); ?>">Alumni</a>

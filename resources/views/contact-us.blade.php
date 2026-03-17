@@ -59,10 +59,13 @@
                                         <span><img src="{{ asset('assets/images/mail.webp') }}" alt=""></span>rucharani.kale@siu.edu.in</span>
                                     </a>
                                     <hr>
-                                    <p class="w-100 m-0">Outreach & Activities: </p>
-                                    <a href="mailto:outreach.scccs@siu.edu.in">
-                                        <span><img src="{{ asset('assets/images/mail.webp') }}" alt=""></span>
-                                        outreach.scccs@siu.edu.in</a>
+                                    <div class="Outreach_box">
+                                        <p class="w-100 m-0">Outreach & Activities: </p>
+                                        <a href="mailto:outreach.scccs@siu.edu.in">
+                                            <span><img src="{{ asset('assets/images/mail.webp') }}" alt=""></span>
+                                            outreach.scccs@siu.edu.in
+                                        </a>
+                                    </div>
                                 </div>
                                 <div class="contact_address_box">
                                     <a href="tel:(+91) 20 6693 6942"><span><img src="{{ asset('assets/images/phone.webp') }}" alt=""></span><span>(+91) 20 6693 6942</span></a>

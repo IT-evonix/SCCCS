@@ -1,5 +1,6 @@
 @include('header')
-<main class="main">
+
+<main class="main new__blog_mainbox">
     <!-- BANNER SECTION START -->
     <div class="inner_page_banner">
         <div class="banner_wrapper inner_page_banner_content">
@@ -30,15 +31,34 @@
             </ul>
         </div>
      </div>
-    <!-- Breadcrumb End -->
-    <div class="container mb-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="heading mt-5 mb-5">
-                    Coming Soon
+     <div class="main-blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="blog-list-inner">
+
+                        <a href="https://www.linkedin.com/pulse/when-heat-becomes-disaster-governance-0gx9c/?trackingId=aREz8VMt127BH4xLLjHx0Q%3D%3D" target="_blank" class="blog-list-item col-md-3">
+                                <div class="blog-image">
+                                    <img class="img-fluid" src="{{ asset('/assets/images/blog/Heat_Becomes_a_Disaster.png') }}" alt="Blog 1">
+                                </div>
+                                <div class="blog-content">
+                                      When Heat Becomes a Disaster, Governance Finally Catches Up with Climate
+                                </div>
+                        </a>
+                         <a href="https://www.linkedin.com/pulse/carbon-capture-utilization-india-bets-tprqc/?trackingId=1DKEmPg6JQ1vvIMIJipBdQ%3D%3D" target="_blank" class="blog-list-item col-lg-3 col-md-3">
+                                <div class="blog-image">
+                                    <img class="img-fluid" src="{{ asset('/assets/images/blog/CarbonCapture.png') }}" alt="Blog 1">
+                                </div>
+                                <div class="blog-content text-left">
+                                      Carbon Capture and Utilization: India Bets on Realism Over Rhetoric
+                                </div>
+                        </a>      
+                    </div>
                 </div>
+
             </div>
         </div>
-    </div>
+     </div>
+    
 </main>
 @include('footer')

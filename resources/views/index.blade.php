@@ -10,29 +10,69 @@
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide1.webp') }}" alt="Banner Image" class="img-fluid">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
-                </div>
-            </div>
-            <!-- <div class="banner_wrapper hero_sec_inner">
-                <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/Banner-Option.jpeg') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide2.webp') }}" alt="Banner Image" class="img-fluid">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/Banner-Option-5.jpeg') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide3.webp') }}" alt="Banner Image" class="img-fluid">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/Banner-Option-6.jpeg') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide4.webp') }}" alt="Banner Image" class="img-fluid">
                 </div>
-            </div> -->
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide5.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide6.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide7.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide8.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide9.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide10.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide11.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide12.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Slide13.webp') }}" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
         </div>
     </div>
     <!-- BANNER SECTION END -->
@@ -41,7 +81,8 @@
     <div class="announcement_sec">
         <div class="announcement_head"><img src="{{ asset('assets/images/announcement.webp') }}" alt=""> Latest Announcement</div>
         <marquee behavior="scroll" direction="left">
-            <span>Admissions are now open. Apply before 30th December!</span>
+            <span>Admissions are now open. Apply before 30th December!</span> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+            <span> SCCCS celebrates its 4th Foundation Day on 7th March 2026</span>
         </marquee>
     </div>
     <!-- Announcement End -->

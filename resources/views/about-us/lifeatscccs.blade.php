@@ -63,14 +63,14 @@
                     <div class="tab-pane fade show active" id="gallerytabbing1" role="tabpanel" aria-labelledby="gallery_tabbing1">
                         <div class="gallery_main_box_inner">
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Symbiosis Society" />
+                                <a href="{{ asset('assets/images/about-symbiosis-society80.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/about-symbiosis-society80.webp') }}" alt="Symbiosis Society" />
                                 </a>
                                 <h6>Upright Freezer: -86 Deep Freezer Cole Palmer (WW-16340-02)</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Campus View" />
+                                <a href="{{ asset('assets/images/about-symbiosis-society20.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/about-symbiosis-society.jpg') }}" alt="Campus View" />
                                 </a>
                                 <h6>Upright Freezer: -20 Degree Deep Celfrost Freezer 450 L (NFG450 G*)</h6>
                             </div>
@@ -120,8 +120,8 @@
                                 <h6>Digital Probe Sonicator - Labman (PRO656)</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Campus View" />
+                                <a href="{{ asset('assets/images/about-symbiosis-society.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/about-symbiosis-society.jpg') }}" alt="Campus View" />
                                 </a>
                                 <h6>Vertical Autoclave Fully Automatic- 52 Litre (BTI-02-A)</h6>
                             </div>
@@ -174,8 +174,8 @@
                                 <h6>Magnetic Stirrer with Hot plate- REMI 2MLH, 2 L</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Heating Mantle- 1 Litre (BTI-19)" />
+                                <a href="{{ asset('assets/images/Heating_Mantle.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/Heating_Mantle.jpg') }}" alt="Heating Mantle- 1 Litre (BTI-19)" />
                                 </a>
                                 <h6>Heating Mantle- 1 Litre (BTI-19)</h6>
                             </div>
@@ -186,8 +186,8 @@
                                 <h6>Mini Centrifuge- Remi RM 02 Plus</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Gel Electrophoresis Unit" />
+                                <a href="{{ asset('assets/images/Gel_Electrophoresis_Unit.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/Gel_Electrophoresis_Unit.jpg') }}" alt="Gel Electrophoresis Unit" />
                                 </a>
                                 <h6>Gel Electrophoresis Unit</h6>
                             </div>
@@ -204,8 +204,8 @@
                                 <h6>MIDI SUB Electrophoresis</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Refrigerator - Haier (HEF252): 2- 4 degrees" />
+                                <a href="{{ asset('assets/images/Refrigerator-Haier_(HEF252)_2-4_degrees.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/Refrigerator-Haier_(HEF252)_2-4_degrees.jpg') }}" alt="Refrigerator - Haier (HEF252): 2- 4 degrees" />
                                 </a>
                                 <h6>Refrigerator - Haier (HEF252): 2- 4 degrees</h6>
                             </div>
@@ -234,8 +234,8 @@
                                 <h6>Cylinder Regulators - CO2, Methane, Nitrogen – 6 nos</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Student Activities" />
+                                <a href="{{ asset('assets/images/Table_top_Microcentrifuge .jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/Table_top_Microcentrifuge .jpg') }}" alt="Table top Microcentrifuge - (P18R-MB)" />
                                 </a>
                                 <h6>Table top Microcentrifuge - (P18R-MB)</h6>
                             </div>
@@ -246,14 +246,14 @@
                                 <h6>Hydroponics Setup System</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Student Activities" />
+                                <a href="{{ asset('assets/images/LG_Solo_20_L_Microwave.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/LG_Solo_20_L_Microwave.jpg') }}" alt="Student Activities" />
                                 </a>
                                 <h6>LG Solo 20 L Microwave</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Student Activities" />
+                                <a href="{{ asset('assets/images/Gas-Distribution-Unit-Wall-Mounted.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/Gas-Distribution-Unit-Wall-Mounted.jpg') }}" alt="Gas Purification Unit – Wall Mounted" />
                                 </a>
                                 <h6>Gas Purification Unit – Wall Mounted</h6>
                             </div>
@@ -270,8 +270,8 @@
                                 <h6>Tarsons Pipette Set – 4 Nos</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/about-symbiosis-society.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
-                                    <img src="{{ asset('assets/images/about-symbiosis-society.webp') }}" alt="Student Activities" />
+                                <a href="{{ asset('assets/images/AnaerobicGlassJars.jpg') }}" data-fancybox="gallerytabbing1" data-caption="">
+                                    <img src="{{ asset('assets/images/AnaerobicGlassJars.jpg') }}" alt="Student Activities" />
                                 </a>
                                 <h6>Anaerobic Glass Jars – 2 Nos</h6>
                             </div>
@@ -487,6 +487,63 @@
                             <a href="{{ asset('assets/images/gallery/creatives/creatives2.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/creatives/creatives2.webp') }}" alt="Symbiosis Society">
                             </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative3.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative3.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative4.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative4.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative5.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative5.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative6.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative6.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative7.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative7.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative8.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative8.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative9.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative9.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative10.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative10.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative11.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative11.webp') }}" alt="Symbiosis Society">
+                            </a>
+
+                            <a href="{{ asset('assets/images/gallery/creatives/creative12.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative12.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative13.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative13.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative14.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative14.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative15.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative15.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative16.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative16.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative17.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative17.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative18.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative18.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative19.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative19.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/creatives/creative20.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/creatives/creative20.webp') }}" alt="Symbiosis Society">
+                            </a>
+                          
+
                         </div>
                     </div>
                     <div class="tab-pane fade" id="gallerytabbing6" role="tabpanel" aria-labelledby="gallery_tabbing6">

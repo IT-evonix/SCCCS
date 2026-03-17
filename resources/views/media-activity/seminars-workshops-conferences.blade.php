@@ -31,7 +31,7 @@
         </div>
      </div>
     <!-- Breadcrumb End -->
-    <div class="gallery_main_sec">
+    <div class="gallery_main_sec d-none">
         <div class="container">
             <div class="gallery_main_box">
                  <!-- <div class="heading">Gallery</div> -->
@@ -85,6 +85,15 @@
                             </a>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="container mb-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading mt-5 mb-5">
+                    Coming Soon
                 </div>
             </div>
         </div>

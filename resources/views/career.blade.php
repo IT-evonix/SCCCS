@@ -81,7 +81,7 @@
         </div>
     </div>
 
-    <section class="volunteer-section">
+    <section class="volunteer-section d-none">
         <div class="container">
             <div class="vs-heading">
                 <div class="heading text-center">
@@ -138,9 +138,15 @@
         </div>
     </section>
 
-
-
-
+     <div class="container mb-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading mt-5 mb-5">
+                    Coming Soon
+                </div>
+            </div>
+        </div>
+    </div>
 </main>
 @include('footer')
 
