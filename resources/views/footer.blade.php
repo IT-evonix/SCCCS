@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer_logobox">
-                       <a href="<?= url('/'); ?>"> <img class="img-fluid" src="{{ asset('assets/images/footer_logo.webp') }}" alt="Footer logo"></a>
+                       <a href="<?= url('/'); ?>"> <img class="img-fluid" src="{{ asset('assets/images/footer_logo.webp') }}" width="520" height="121" loading="lazy" style="height: auto;" alt="Footer logo"></a>
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                                 <li><a href="<?= url('/head-of-centre'); ?>">People</a></li>
                                 <li><a target="_blank" href="<?= url('https://scri.siu.edu.in/'); ?>">PhD Program</a></li>
                                 <li><a href="<?= url('/projects-and-grants'); ?>">Projects</a></li>
-                                <li><a href="<?= url('/areas-of-research'); ?>">Research</a></li>
+                                <li><a href="<?= url('/areas-of-research/one-health'); ?>">Research</a></li>
                                 <li><a href="<?= url('/news'); ?>">News and Events</a></li>
                                 <li><a href="<?= url('/contact-us'); ?>">Contact us</a></li>
                             </ul>
@@ -47,7 +47,7 @@
                             </div>
                             <ul>
                                
-                                <li><a href="mailto:head_scccs@siu.edu.in"><img src="{{ asset('assets/images/email.svg') }}" alt="email"> head_scccs@siu.edu.in</a></li>
+                                <li><a href="mailto:head_scccs@siu.edu.in"><img src="{{ asset('assets/images/email.svg') }}" width="31" height="31" loading="lazy" style="height: auto;" alt="email"> head_scccs@siu.edu.in</a></li>
                             </ul>
                         </div>
                         <div class="address_box mt-0 mt-lg-4" style="border-top: 1px solid #ccc; padding: 15px 0 0 0;">
@@ -56,11 +56,11 @@
                             </div>
                             <div class="social_media_box">
                                 <!-- <a target="_blank" href="#"><img src="{{ asset('assets/images/fb.svg') }}" alt="fb"></a> -->
-                                <a target="_blank" href="https://www.instagram.com/scccs_siu/"><img src="{{ asset('assets/images/insta.svg') }}" alt="insta"></a>
-                                <a target="_blank" href="https://www.youtube.com/@SCCCS_SIU_India"><img src="{{ asset('assets/images/youtube.svg') }}" alt="youtube"></a>
+                                <a target="_blank" href="https://www.instagram.com/scccs_siu/"><img src="{{ asset('assets/images/insta.svg') }}" width="30.854" height="30.854" loading="lazy" style="height: auto;" alt="insta"></a>
+                                <a target="_blank" href="https://www.youtube.com/@SCCCS_SIU_India"><img src="{{ asset('assets/images/youtube.svg') }}" width="30.854" height="30.854" loading="lazy" style="height: auto;" alt="youtube"></a>
                                 <!-- <a target="_blank" href="#"><img src="{{ asset('assets/images/whatsapp.svg') }}" alt="whatsapp"></a>
                                 <a target="_blank" href="#"><img src="{{ asset('assets/images/x.svg') }}" alt="x"></a> -->
-                                <a target="_blank" href="https://www.linkedin.com/company/symbiosis-centre-for-climate-change-and-sustainability-scccs/people/?viewAsMember=true"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="linkdin"></a>
+                                <a target="_blank" href="https://www.linkedin.com/company/symbiosis-centre-for-climate-change-and-sustainability-scccs/people/?viewAsMember=true"><img src="{{ asset('assets/images/linkdin.svg') }}" width="30.854" height="30.854" loading="lazy" style="height: auto;" alt="linkdin"></a>
                             </div>
                         </div>
                     </div> 
@@ -79,7 +79,7 @@
                     <div class="crafted_by_evonix">
                         Crafted By
                         <a href="https://www.evonix.co/" target="_blank">
-                            <img class="img-fluid" src="{{ asset('assets/images/footer-logo.webp') }}" alt="Crafted By Evonix">
+                            <img class="img-fluid" src="{{ asset('assets/images/footer-logo.webp') }}" width="656" height="160" loading="lazy" style="height: auto;" alt="Crafted By Evonix">
                         </a>
                     </div>
                 </div>
@@ -91,19 +91,23 @@
 
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+<script defer src="{{ asset('assets/js/jquery.min.js') }}"></script>
+<script defer src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
 <!-- form content ends -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="{{asset('assets/js/script.js')}}"></script>
+<script defer src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
+<script defer src="{{ asset('assets/js/script.min.js') }}"></script>
 
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script defer src="{{ asset('assets/js/aos.js') }}"></script>
 <script>
-  AOS.init();
+  document.addEventListener("DOMContentLoaded", function() {
+    AOS.init();
+  });
 </script>
 
 <!-- Fancybox Image Gallery -->        
-<script defer src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+@if(Request::is('visitors-to-scccs') || Request::is('seminars-workshops-conferences'))
+<script defer src="{{ asset('assets/js/fancybox.umd.js') }}"></script>
+@endif
 
 </body>
 </html>

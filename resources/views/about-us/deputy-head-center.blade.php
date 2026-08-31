@@ -42,11 +42,19 @@
                     <div class="broad_areas_box">
                         <h6>Broad Areas</h6>
                         <ul>
-                            <li>Microbial Ecology and Diversity</li>
-                            <li>Public and Environmental health</li>
-                            <li>Anaerobic Microbiology</li>
-                            <li>Global warming, Climate change and Carbon sequestration</li>
-                            <li>Archaeal bioinoculants</li>
+
+
+                           
+
+                            <li>Climate Change Impacts on Public and Environmental Health</li>
+                            
+                            <li> Carbon Capture, Utilization, and Storage (CC)</li>
+                            
+                            <li>Microbial Mediation of Global Warming, Climate Change, and Carbon Sequestration
+</li>
+                            
+                            
+                            <li>Clean Energy Solutions: Bio-CNG and Biohydrogen Production</li>
                         </ul>
                     </div>
                 </div>
@@ -56,7 +64,7 @@
                             <div class="profile_heading heading">
                                 Om Prakash <Span>Ph.D</Span>
                             </div>
-                            <div class="profile_position">Deputy Head</div>
+                            <div class="profile_position">Deputy Head & Associate Professor</div>
                         </div>
                         <div class="emailbox">
                             <a href="mailto:dyhead_scccs@siu.edu.in">dyhead_scccs@siu.edu.in</a>
@@ -64,8 +72,13 @@
                     </div>
                     <p>Dr. Om Prakash serves as Deputy Head and Associate Professor at the Symbiosis Centre for Climate Change and Sustainability (SCCCS), Symbiosis International (Deemed University), Pune. Over the past two decades, his research has explored the boundaries of anaerobic microbiology, climate systems, greenhouse gas dynamics, environmental remediation, and public health.</p>        
                     <p>Prior to joining Symbiosis, Dr. Prakash spent eleven years as Curator of the Anaerobic Facility at the National Centre for Microbial Resource (NCMR), National Centre for Cell Science (NCCS), Pune. He holds an M.Sc. from Dr. RML Avadh University and a Ph.D. in Microbiology from the University of Delhi, complemented by five years of postdoctoral training at Florida State University and Georgia Institute of Technology, USA, specializing in anaerobic systems and environmental health.</p>        
-                    <p>He currently chairs the Subcommittee on Methanogenic Archaea of the International Committee on Systematics of Prokaryotes (ICSP), UK, collaborating with ten experts across eight countries. In 2016, he received the Senior INSA Visiting Fellowship in Microbial Ecology to advance Indo-Israel collaboration in wastewater treatment and coordinated India's participation in the Global Antimicrobial Resistance (AMR) project, involving 47 laboratories from 20 countries. That same year, he was awarded the ICMR Long-term Fellowship for research in human gut ecology, conducting bottom-up proteomics work with the Translational Science Laboratory at Florida State University's College of Medicine.</p>        
-                    <p>Dr. Prakash has contributed over 80 research articles to high-impact journals, accumulating more than 5,000 citations. His work has been supported by the Department of Biotechnology (DBT) and Department of Science and Technology (DST), with his climate change and bioenergy research featured by DBT on World Environment Day (2021). At NCCS, he established the Microbiome Bank of NCMR, curating over 30 obligate anaerobe species and discovering Geobacter daltonii, the first documented anoxic benzene degrader with uranium and iron-reducing capabilities.</p>        
+                    <p>He currently chairs the Subcommittee on Methanogenic Archaea of the International Committee on Systematics of Prokaryotes (ICSP), UK, collaborating with ten experts across eight countries. In 2016, he received the Senior INSA Visiting Fellowship in Microbial Ecology to advance Indo-Israel collaboration in wastewater treatment and coordinated India's participation in the Global Antimicrobial Resistance (AMR) project, involving 47 laboratories from 20 countries. That same year, he was awarded the ICMR Long-term Fellowship for research in human gut ecology, conducting bottom-up proteomics work with the Translational Science Laboratory at Florida State University's College of Medicine.</p>     
+                    <p>
+                        Dr. Om's current research integrates carbon capture with circular resource utilization, with a particular focus on innovative bio-based solutions. His ongoing project on microalgae explores their potential for carbon sequestration while simultaneously enabling the synthesis of hard carbon for next-generation sodium-ion battery technologies. Complementing this, his work on clean energy pathways investigates the production of BioCNG and biohydrogen as sustainable alternatives to fossil fuels, advancing low-carbon energy transitions.
+                    </p>
+                    <p> In parallel, Dr. Om is actively engaged in assessing environmental and public health risks associated with landfill systems, particularly their role as significant sources of greenhouse gas emissions. Extending this climate lens to fragile ecosystems, his research on high-altitude Himalayan wetlands examines how warming-induced changes in lake sediments influence greenhouse gas emissions. This multidimensional work supports evidence-based conservation and management strategies for these ecologically sensitive regions while strengthening the broader understanding of climate change impacts.
+</p>
+                    <p>Dr. Prakash has contributed over 80 research articles to high-impact journals, accumulating more than 5,000 citations. His work has been supported by the Department of Biotechnology (DBT) and Department of Science and Technology (DST), with his climate change and bioenergy research featured by DBT on World Environment Day (2021). At NCCS, he established the Microbiome Bank of NCMR, curating over 30 obligate anaerobe species and discovering bacter daltonii, the first documented anoxic benzene degrader with uranium and iron-reducing capabilities.</p>        
                     <p>He founded the Indian Landfill Leachate Network Initiative (ILLNI), a volunteer-driven consortium comprising over 35 Indian institutions that investigates the impacts of landfills on climate, contamination, and public health. His team has developed high-throughput cultivation methods for uncultured bacteria and archaea, designed for resource-limited laboratories, in collaboration with NEERI-Nagpur and the University of Illinois.</p>        
                     <p>Dr. Prakash has mentored over 45 undergraduate and postgraduate students from institutions such as Florida State University and Florida A&M University (FAMU), where he received the Best Mentor Award in 2017. He also received the Young Achiever Award from the Institute of Agricultural Sciences, Banaras Hindu University, that year.</p>        
                     <p>He serves on the editorial boards of Scientific Reports, BMC Microbiology, Journal of Environmental Biology, Indian Journal of Microbiology, and Microsphere, and as a guest editor for Frontiers in Microbiology. Additionally, he holds executive board positions with the Indian Network for Soil Contamination Research (INSCR), the Microbiology Literacy Forum, and the United Science Foundation. He is a founding member and Secretary of the Society of Anaerobic Microbiologists of India.</p>

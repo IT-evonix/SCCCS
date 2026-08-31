@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>Collaborators</h1>
+                        <h1>Institutional Partners</h1>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,8 @@
             <ul>
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
                 <li>Research</li> /
-                <li>Collaborators</li>
+                <li>Collaborators</li> /
+                <li>Institutional Partners</li>
             </ul>
         </div>
      </div>
@@ -148,39 +149,39 @@
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-2.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">RUSH Medical University Centre</div>
-                            </div>
-                            <div class="collaboration_logo_box">
-                                <img src="{{ asset('assets/images/logos/international-collaborators/logo-3.webp') }}" alt="Lab life">
                                 <div class="collab_partner_name">Pennsylvania State University</div>
                             </div>
                             <div class="collaboration_logo_box">
+                                <img src="{{ asset('assets/images/logos/international-collaborators/logo-3.webp') }}" alt="Lab life">
+                                <div class="collab_partner_name">All-Russian Collection of Microorganisms (VKM).</div>
+                            </div>
+                            <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-4.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Florida State University</div>
+                                <div class="collab_partner_name">Chungbuk National University</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-5.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Florida Agriculture and Mechanical University</div>
+                                <div class="collab_partner_name">Chinese Academy of Sciences</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-6.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">University of Georgia</div>
+                                <div class="collab_partner_name">JAMSTEC – Japan Agency for Marine-Earth Science and Technology</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-7.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Agricultural Research Organization,  Israel</div>
+                                <div class="collab_partner_name">Agricultural Research Organization – Volcani Center</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-8.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Japan Agency for Marine-Earth Science and Technology, Japan</div>
+                                <div class="collab_partner_name">University of Georgia</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-9.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Chinese Academy of Sciences, China</div>
+                                <div class="collab_partner_name">Florida Agricultural and Mechanical University</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-10.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Chungbuk National University, South Korea</div>
+                                <div class="collab_partner_name">Florida State University</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-11.webp') }}" alt="Lab life">
@@ -195,9 +196,3 @@
       
 </main>
 @include('footer')
-
-
-
-
-
-</script>

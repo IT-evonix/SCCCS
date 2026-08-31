@@ -1,0 +1,4 @@
+[01-Jun-2026 02:14:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/scccssi/public_html/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/scccssi/public_html/routes/web.php on line 17

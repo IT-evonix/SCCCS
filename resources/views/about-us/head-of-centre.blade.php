@@ -59,7 +59,7 @@
                             <div class="profile_heading heading">
                                 Prof. Prakash Rao, <Span>Ph.D</Span>
                             </div>
-                            <div class="profile_position">Head</div>
+                            <div class="profile_position">Head and Professor</div>
                         </div>
                         <div class="emailbox">
                             <a href="mailto:head_scccs@siu.edu.in">head_scccs@siu.edu.in</a>
@@ -69,7 +69,7 @@
                     <p>His career encompasses the coordination of multidisciplinary, multi-country initiatives addressing critical intersections of climate, energy, and resource systems. For nearly a decade, he directed the Climate Change and Energy Programme at WWF-India, steering research agendas, policy analysis, and community-based interventions on a global scale.</p>
                     <p>Dr. Rao has authored approximately 85 scholarly contributions—research articles, technical notes, and book chapters—published in peer-reviewed international journals and volumes. His written work extends to popular science writing and media commentary, alongside consultancy engagements with organizations seeking expertise in environmental resource management and corporate sustainability strategy. He has authored four books, most recently Environmental Impacts of Tourism in Developing Nations (IGI Global Publishers, USA).</p>
                     <p>His current efforts center on embedding sustainability within higher education frameworks. Dr. Rao is spearheading a certification initiative for Symbiosis International (Deemed University) through the 2000-Watt Smart Cities label, a Swiss standard for operationalizing campus-level sustainability. He mentors five doctoral candidates whose research explores climate finance mechanisms, energy modeling, efficiency optimization, and circular economy integration in educational institutions.</p>
-                    <p>Dr. Rao's approach combines rigorous scholarship with institutional leadership, fostering pathways for systemic change in climate education and sustainable development practice.Claude can make mistakes. Please double-check responses.</p>
+                    <p>Dr. Rao's approach combines rigorous scholarship with institutional leadership, fostering pathways for systemic change in climate education and sustainable development practice.</p>
                 </div>
                 <div class="socialmedia_box">
                     <a target="_blank" href="https://www.linkedin.com/in/prakash-rao-ph-d-22a48ab6/"><img src="{{ asset('assets/images/inner-pages/linkedin.webp') }}" alt=""></a>

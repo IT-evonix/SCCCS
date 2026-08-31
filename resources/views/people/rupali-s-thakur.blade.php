@@ -61,7 +61,7 @@
                         </div>
                     </div>
                     <p>Glad to introduce our senior PhD scholar, Rupali Thakur!</p>
-                    <p>With a Master's in Microbiology from Savitribai Phule Pune University, Rupali brings valuable industry experience from her work at Mylab Discovery Solutions Pvt. Ltd. and Genei Laboratories Pvt. Ltd. She joined the Centre in 2023 as a full-time PhD student under the guidance of Dr. Om Prakash Sharma, working on a project within the One Health initiative.</p>
+                    <p>With a Master's in Biotechnology from Savitribai Phule Pune University, Rupali brings valuable industry experience from her work at Mylab Discovery Solutions Pvt. Ltd. and Genei Laboratories Pvt. Ltd. She joined the Centre in 2023 as a full-time PhD student under the guidance of Dr. Om Prakash Sharma, working on a project within the One Health initiative.</p>
                     <p>For her PhD, she studies the impact of residual antibiotics on microbial communities in soil and sediment affected by hospital and pharmaceutical wastewater. She aims to quantify the concentration of different antibiotics and understand how they influence microbial structure and function. Her work also explores how these ecosystems contribute to the development and spread of antimicrobial resistance (AMR) in agricultural soils and sediments downstream of these water bodies. Water from such sources is widely used in agriculture, posing significant risks of spreading AMR in humans and livestock.</p>
                     <p>Outside the lab, she is a proud dog parent and enjoys singing Indian classical music and going on occasional hikes.</p>
                 </div>

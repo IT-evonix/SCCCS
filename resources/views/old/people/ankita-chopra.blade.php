@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>Afshan Ahmed</h1>
+                        <h1>Ankita Chopra</h1>
                     </div>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
                 
                 <li>People</li> /
-                <li>Afshan Ahmed</li>
+                <li>Ankita Chopra</li>
             </ul>
         </div>
      </div>
@@ -38,12 +38,15 @@
         <div class="container">
            <div class="leadership_inner">
                 <div class="head_img">
-                    <img src="{{ asset('assets/images/people/afshan-ahmed.webp') }}" alt="">
+                    <img src="{{ asset('assets/images/people/ankita-chopra.webp') }}" alt="">
                     <div class="broad_areas_box">
                         <h6>Broad Areas</h6>
                         <ul>
-                            <li>Role of phytochemicals in controlling microbial infections</li>
-                            <li>Climate change and Zoonosis</li>
+                            <li>Sustainable agriculture</li>
+                            <li>Plant-microbe interaction</li>
+                            <li>Biofertilizer</li>
+                            <li>Methane emission and mitigation</li>
+                            <li>Carbon sequestration</li>
                         </ul>
                     </div>
                 </div>
@@ -51,22 +54,21 @@
                     <div class="profile_intro">
                         <div class="div">
                             <div class="profile_heading heading">
-                                Afshan Ahmed
+                                Ankita Chopra, <span>Ph.D</span>
                             </div>
-                            <div class="profile_position">Research Assistant</div>
+                            <div class="profile_position">Project Scientist - DST WISE Kiran Women Scientist</div>
                         </div>
                         <div class="emailbox">
-                            <a href="mailto:afshan.ahmad@siu.edu.in">afshan.ahmad@siu.edu.in</a>
+                            <a href="mailto:ankita.chopra_dstwos@siu.edu.in">ankita.chopra_dstwos@siu.edu.in</a>
                         </div>
                     </div>
-                    <p>With a Master's in Zoology from Patna Science College, Patna University, Afshan joins us after working as a Project Assistant for an SIU–Major Research Project (SIU-MJRP) evaluating the effects of residual antibiotics from hospital wastewater on plants.</p>
-                    <p>She currently works as a Research Assistant at the Centre, supporting ongoing research activities. She also plans to enroll for a PhD soon.</p>
-                    <p>Outside of work, she enjoys exploring nature and loves playing badminton.</p>
+                    <p>Dr. Ankita B. Chopra, PhD, joins our centre as a Project Scientist. She joins us as a DST WISE KIRAN Postdoctoral Fellow and works on enhancing the nutritional quality of hydroponic green fodder to reduce methane emissions from ruminants.</p>
+                    <p>Dr. Chopra’s research interests span sustainable agricultural practices and plant–microbe interactions. Her previous work focuses on quorum sensing in rhizobacteria and their role in inducing systemic resistance in tea plants.</p>    
                 </div>
                 <div class="socialmedia_box">
-                    <a target="_blank" href="https://www.linkedin.com/in/afshan-ahmad-22203384/"><img src="{{ asset('assets/images/inner-pages/linkedin.webp') }}" alt=""></a>
-                    <a target="_blank" href=""><img src="{{ asset('assets/images/inner-pages/scholar-google.webp') }}" alt=""></a>
-                    <a target="_blank" href="https://orcid.org/0009-0004-8197-9448"><img src="{{ asset('assets/images/inner-pages/domain.webp') }}" alt=""></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/ankita-b-chopra-phd-5170991b2/"><img src="{{ asset('assets/images/inner-pages/linkedin.webp') }}" alt=""></a>
+                    <a target="_blank" href="https://scholar.google.co.in/citations?user=1D16MEcAAAAJ&hl=en"><img src="{{ asset('assets/images/inner-pages/scholar-google.webp') }}" alt=""></a>
+                    <a target="_blank" href="https://orcid.org/0000-0001-6297-4933"><img src="{{ asset('assets/images/inner-pages/domain.webp') }}" alt=""></a>
                 </div>
            </div>
         </div>

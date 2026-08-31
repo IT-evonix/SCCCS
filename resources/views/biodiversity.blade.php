@@ -92,10 +92,10 @@
                         </div> -->
                         <ul class="sidebar-menu">
                             <li><a href="#overview" class="active">Overview</a></li>
-                            <li><a href="#mission">Our Mission</a></li>
+                            <li><a href="#mission">Focus Area</a></li>
                             <li><a href="#campus-biodiversity">Campus Biodiversity</a></li>
                             <li><a href="#our-approach">Our Approach</a></li>
-                            <li><a href="#our-flagship-initiative">Our Flagship Initiative</a></li>
+                            <li><a href="#our-flagship-initiative">Campus in Focus</a></li>
                             <li><a href="#join-our-biodiversity-whatsApp-group">Join Our Biodiversity WhatsApp Group</a></li>
                             <li><a href="#current-research-projects">Current Research Projects</a></li>
                             <li><a href="#publications">Publications</a></li>
@@ -135,7 +135,7 @@
                     <!-- Mission -->
                     <section class="vision_and_mission_section vision_sec scroll_margin" id="mission">
                     <div class="vision_and_mission_inner">
-                        <div class="heading">Our Mission</div>
+                        <div class="heading">Focus Area</div>
                         <p>The Biodiversity Wing is dedicated to documenting and preserving biodiversity while spreading awareness among the Symbiosis community—students, staff, and faculty alike. Through citizen science platforms, we facilitate greater participation from the campus community, enabling us to identify and prioritize critical conservation areas. Our approach combines scientific rigor with community engagement to create lasting impact.</p>
                     </div>
                     </section>
@@ -173,7 +173,7 @@
                                         <div class="species-card">
                                             <img src="{{ asset('assets/images/biodiversity/birds.webp') }}" alt="Birds icon">
                                             <h5>Birds</h5>
-                                            <p>Over 160 bird species</p>
+                                            <p>Over 174 bird species</p>
                                         </div>
                                         <div class="species-card">
                                             <img src="{{ asset('assets/images/biodiversity/reptile.webp') }}" alt="Reptiles icon">
@@ -210,7 +210,7 @@
                                         <tbody>
                                             <tr>
                                             <td>Birds</td>
-                                            <td>160</td>
+                                            <td>174</td>
                                             </tr>
                                             <tr>
                                             <td>Mammals</td>
@@ -330,11 +330,12 @@
                     </section>
 
                     <section class="our_flagship_section scroll_margin" id="our-flagship-initiative">
-                        <div class="heading">Our flagship Initiative</div>
+                        <div class="heading">Campus in Focus</div>
                             <div class="subheading">Nature Photography Competition 2025</div>
                             <div class="flagshipbox biopadding">
                                 <div class="flagleft">
                                     <img class="img-fluid" src="{{ asset('assets/images/biodiversity/flagship1.webp') }}" alt="">
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>
                                 </div>
                                 <div class="flagright">
                                     <div class="div">
@@ -739,7 +740,7 @@
                                     <div class="biopadding listingsec">
                                         <p><b>ISBN:</b> 978-81-928678-3-0</p>
                                         <p><b>Conceptualisation:</b> Dr. S. B. Mujumdar, Dr. Vidya Yeravdekar</p>
-                                        <p><b>Authors:</b> Dr. Prakash Rao, Shilpa Avate, Dr. Gurudas Nulkar</p>
+                                        <p><b>Authors:</b> Dr. Om Prakash , Shilpa Avate, Dr. Gurudas Nulkar</p>
                                     </div>
                                 </div>
                             </div>
@@ -755,7 +756,7 @@
                                     <div class="biopadding listingsec">
                                         <p><b>ISBN:</b> 978-93-5087-668-8</p>
                                         <p><b>Conceptualisation:</b> Dr. Bhushan Patwarden, Dr. Vidya Yeravdekar, Dr. V. R. Gunale</p>
-                                        <p><b>Authors:</b> Dr. Prakash Rao, Shilpa Avate, Dr. Gurudas Nulkar</p>
+                                        <p><b>Authors:</b> Dr. O    m Prakash , Shilpa Avate, Dr. Gurudas Nulkar</p>
                                     </div>
                                 </div>
                             </div>
@@ -805,12 +806,14 @@
                                         <img src="{{ asset('assets/images/biodiversity/flagship1.webp') }}" alt="Bonelli’s Eagle" />
                                     </a>
                                     <h6>Bonelli’s Eagle (Aquila fasciata)</h6>
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>                                    
                                 </div>
                                 <div class="gallery_box">
                                     <a href="{{ asset('assets/images/biodiversity/overview1.webp') }}" data-fancybox="gallerytabbing1" data-caption="Hill Turmeric (Curcuma pseudomontana)">
                                         <img src="{{ asset('assets/images/biodiversity/overview1.webp') }}" alt="Hill Turmeric" />
                                     </a>
                                     <h6>Hill Turmeric (Curcuma pseudomontana)</h6>
+                                    <div class="photocredit">Photo Credits: Dr. Prakash Rao</div>
                                 </div>
                                 <div class="gallery_box">
                                     <a
@@ -818,6 +821,7 @@
                                         <img src="{{ asset('assets/images/biodiversity/campus-biodiversity1.webp') }}" alt="Wandering Glider"/>
                                     </a>
                                     <h6>Wandering Glider (Pantala flavescens)</h6>
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>
                                 </div>
                                 <div class="gallery_box">
                                     <a
@@ -825,6 +829,7 @@
                                         <img src="{{ asset('assets/images/biodiversity/overview3.webp') }}" alt="Gulmohar Blossom " />
                                     </a>
                                     <h6>Gulmohar Blossom  (Delonix regia)</h6>
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>
                                 </div>
                                 <div class="gallery_box">
                                     <a
@@ -832,6 +837,7 @@
                                         <img src="{{ asset('assets/images/biodiversity/bhandhara.webp') }}" alt="The bandhara" />
                                     </a>
                                     <h6>The bandhara (check dam) at the SIU Lavale campus</h6>
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>
                                 </div>
                                 <div class="gallery_box">
                                     <a
@@ -839,6 +845,7 @@
                                         <img src="{{ asset('assets/images/biodiversity/overview2.webp') }}" alt="Ashoka Tree Blossom  (Saraca asoca)" />
                                     </a>
                                     <h6>Ashoka Tree Blossom  (Saraca asoca)</h6>
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>
                                 </div>
                                 <div class="gallery_box">
                                     <a
@@ -846,6 +853,7 @@
                                         <img src="{{ asset('assets/images/biodiversity/hilltop.webp') }}" alt="Plateau ecosystem at SIU Hilltop" />
                                     </a>
                                     <h6>Plateau ecosystem at SIU Hilltop</h6>
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>
                                 </div>
                                 <div class="gallery_box">
                                     <a
@@ -853,6 +861,7 @@
                                         <img src="{{ asset('assets/images/biodiversity/Devrai.webp') }}" alt="Devrai - protected forest at SIU Hilltop" />
                                     </a>
                                     <h6>Devrai - protected forest at SIU Hilltop</h6>
+                                    <div class="photocredit">Photo Credits: Avishkar Munje</div>
                                 </div>
                             </div>
                         </div>

@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>PhD Thesis</h1>
+                        <h1>Master’s Dissertation Reports</h1>
                     </div>
                 </div>
             </div>

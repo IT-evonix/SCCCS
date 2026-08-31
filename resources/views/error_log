@@ -1,0 +1,4 @@
+[01-Jun-2026 02:12:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/scccssi/public_html/resources/views/index.blade.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/scccssi/public_html/resources/views/index.blade.php on line 117

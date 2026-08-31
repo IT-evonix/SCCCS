@@ -39,12 +39,13 @@
                 <div class="head_img">
                     <img src="{{ asset('assets/images/people/ujjwala-waghmare.webp') }}" alt="">
                     <div class="broad_areas_box">
+                        
                         <h6>Broad Areas</h6>
                         <ul>
                             <li>Environmental Microbiology</li>
-                            <li>Public Health & Epidemiology</li>
-                            <li>Waste Management & Urban Landfill Ecology</li>
-                            <li>Community Health Resilience</li>
+                            <li>Antimicrobial Resistance (AMR)</li>
+                            <li>Environmental Metagenomics</li>
+                            <li>Waste Management and Urban Landfill Ecology</li>
                         </ul>
                     </div>
                 </div>
@@ -60,13 +61,17 @@
                             <a href="mailto:phdgrad.ujjwala.waghmare@siu.edu.in">phdgrad.ujjwala.waghmare@siu.edu.in</a>
                         </div>
                     </div>
-                    <p>Ujjwala holds a Master’s degree in Microbiology from Savitribai Phule Pune University and joined SCCCS as a Research Assistant in 2023, where she developed a strong interest in understanding the complex relationship between microbes and the global challenge of climate change, with a particular focus on public health. In early 2025, she transitioned into a full-time PhD student.</p>
-                    <p>Her doctoral research investigates the impact of climate change on the spread of infectious diseases, particularly within communities residing near urban landfills. These areas face heightened health risks due to exposure to pollutants, pathogens, and vectors that thrive under changing climate conditions. By exploring these dynamics, Ujjwala aims to develop strategies that mitigate public health risks and improve the resilience of vulnerable populations.</p>
-                    <p>Outside her academic work, she enjoys traveling and reading—activities that fuel her curiosity and broaden her understanding of global issues.</p>
+                    <p>
+Ujjwala holds a Master’s degree in Microbiology from Savitribai Phule Pune University and joined SCCCS as a Research Assistant in 2023, where she developed a strong interest in environmental microbiology and the role of microorganisms in environmental and public health. In early 2025, she transitioned into a full-time PhD student.                    </p>
+                    <p>
+Her doctoral research investigates the dissemination of antimicrobial resistance in urban landfill leachate systems. Using metagenomic approaches, she studies microbial communities, antibiotic resistance genes (ARGs), and horizontal gene transfer to understand how landfill environments contribute to the emergence and spread of antimicrobial resistance. Her research aims to generate insights that support sustainable waste management practices and strengthen environmental surveillance of antimicrobial resistance.                    </p>
+                    <p>
+Outside her academic work, she enjoys travelling, photography, and reading, activities that fuel her curiosity and broaden her understanding of global issues.        
+</p>
                 </div>
                 <div class="socialmedia_box">
                     <a target="_blank" href="https://www.linkedin.com/in/ujjwala-waghmare-8944b8242/"><img src="{{ asset('assets/images/inner-pages/linkedin.webp') }}" alt=""></a>
-                    <a target="_blank" href="#"><img src="{{ asset('assets/images/inner-pages/scholar-google.webp') }}" alt=""></a>
+                    <a target="_blank" href="https://scholar.google.com/citations?user=fsMUMgYAAAAJ&hl=en"><img src="{{ asset('assets/images/inner-pages/scholar-google.webp') }}" alt=""></a>
                     <a target="_blank" href="https://orcid.org/0009-0005-9249-1533"><img src="{{ asset('assets/images/inner-pages/domain.webp') }}" alt=""></a>
                 </div>
            </div>

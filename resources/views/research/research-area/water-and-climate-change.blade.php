@@ -40,7 +40,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="heading">
-                            Water & Climate Change: The Invisible Crisis in Our Treatment Systems
+                          Water & Climate Change: The Invisible Crisis
                         </div>
                         <div class="areas_of_research_box areas_of_research_box1">
                             <div class="areas_of_research_left">
@@ -75,6 +75,19 @@
                                 <div class="areas_of_research_mask"></div>
                             </div>
                         </div>
+                         <div class="areas_of_research_box areas_of_research_box2 direction_change new_areas_of_research_box4">
+                            <div class="areas_of_research_left">
+                                <div class="subheading">
+                                   Himalayan Wetlands at the Climate Crossroads
+                                </div>
+                                <p>The National Mission on Himalayan Studies (NMHS)- supported project titled “Multidimensional Assessment of Ecological Dynamics and Ecosystem Health of Selected High-Altitude Wetlands of the Indian Himalayan Region (IHR) for Effective Conservation and Management Planning” focuses on understanding how these fragile ecosystems respond to a rapidly changing climate. Funded by the Ministry of Environment, Forests & Climate Change, Government of India, the high-altitude wetlands in the Himalayas are not just scenic landscapes—they are powerful natural climate regulators. Acting as significant carbon sinks, they absorb and store carbon dioxide from the atmosphere, playing a crucial role in mitigating climate change. Over a period of three years, the project closely monitors seasonal and temporal variations in greenhouse gas emissions and carbon sequestration to generate robust, long-term insights.</p>
+                                <p>At the same time, these wetlands present a complex paradox. While they help trap carbon, they are also among the largest natural sources of atmospheric methane—a potent greenhouse gas. This dual role makes them critically important in the global carbon cycle and a key area of concern in climate science. By studying emissions emerging from lake sediments and understanding ecosystem health dynamics, the project aims to inform conservation strategies that balance ecological protection with climate action. Ultimately, this work seeks to bridge science and policy, ensuring that the Himalayan wetlands are preserved not only as biodiversity hotspots but also as vital components in the fight against climate change.</p>
+                            </div>
+                            <div class="areas_of_research_right">
+                                <div class="areas_of_research_mask"></div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
