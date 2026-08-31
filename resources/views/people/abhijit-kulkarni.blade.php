@@ -56,19 +56,21 @@
                             <div class="profile_heading heading">
                                 Abhijit Kulkarni, <span>Ph.D</span>
                             </div>
-                            <div class="profile_position">Postdoctoral Research Associate</div>
+                            <div class="profile_position">Research Associate</div>
                         </div>
                         <div class="emailbox">
                             <a href="mailto:abhijits.kulkarni@siu.edu.in">abhijits.kulkarni@siu.edu.in</a>
                         </div>
                     </div>
-                    <p>Abhijit is a Postdoctoral Research Associate at the Symbiosis Centre for Climate Change and Sustainability (SCCCS), where his work spans gut microbiome science, culturomics, science communication, and climate awareness. His PhD from the National Centre for Cell Science examined how ancestral diets shape human biology, culminating in one of the world’s first studies to analyze the gut microbiome of eight tribal populations simultaneously. This research revealed how centuries-old cultural practices influence human health and microbial ecosystems.</p>
+                    <p>Dr. Abhijit is a Research Associate (PDF) at the Symbiosis Centre for Climate Change and Sustainability (SCCCS), where his work spans gut microbiome science, culturomics, science communication, and climate awareness. His PhD from the National Centre for Cell Science (NCCS) examined how ancestral diets shape the human gut microbiome, culminating in one of the world’s first studies to analyze the gut microbiome of eight tribal populations simultaneously. This research revealed how centuries-old cultural practices influence human health and microbial ecosystems.</p>
+                    <p>Building on this foundation, Abhijit's current research connects tribal gut culturomics with sustainable food systems, highlighting how traditional diets support resilient, diverse, and functionally rich gut microbiota. His work explores the cultivation of native and previously uncultured microbial species, uncovering their potential role in nutrition, health, and climate-resilient food practices. By linking microbial diversity with indigenous food knowledge, he aims to inform the development of sustainable dietary strategies that are both ecologically viable and culturally rooted in the context of a changing climate.
+</p>
                     <p>Working in remote tribal regions helped Abhijit discover his passion for science communication and strengthen his skills in scientific project management. He now translates microbiology and climate concepts into accessible narratives, including content in local languages to ensure communities can meaningfully engage with science. Abhijit believes that accessible science empowers society to make informed decisions for planetary and human well-being.</p>
-                    <p>At SCCCS, he also contributes as a Research Associate, supporting the Centre’s efforts in science communication, sustainable food systems, community health, climate research, and the establishment of new laboratory facilities. He works on the conviction that sustainability must be a lived cultural practice and that curious scientists should inspire equally curious communities.</p>
+                    <p>At SCCCS, he also leads the Centre's efforts in science communication, sustainable food systems, community health, climate research, and the establishment of new laboratory facilities. He works on the conviction that sustainability must be a lived cultural practice and that curious scientists should inspire equally curious communities.</p>
                 </div>
                 <div class="socialmedia_box">
                     <a target="_blank" href="https://www.linkedin.com/in/askmicrobe/"><img src="{{ asset('assets/images/inner-pages/linkedin.webp') }}" alt=""></a>
-                    <a target="_blank" href="#"><img src="{{ asset('assets/images/inner-pages/scholar-google.webp') }}" alt=""></a>
+                    <a target="_blank" href="https://scholar.google.com/citations?user=FFp1WC8AAAAJ&hl=en&oi=ao"><img src="{{ asset('assets/images/inner-pages/scholar-google.webp') }}" alt=""></a>
                     <a target="_blank" href="https://orcid.org/my-orcid?orcid=0000-0002-7096-5727"><img src="{{ asset('assets/images/inner-pages/domain.webp') }}" alt=""></a>
                 </div>
            </div>

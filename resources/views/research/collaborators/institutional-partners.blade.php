@@ -54,7 +54,7 @@
                         </button>
                     </li>
 
-                    <li class="nav-item" role="presentation">
+                    <li class="nav-item" role="presentation" >
                         <button class="nav-link"
                             data-bs-toggle="pill"
                             data-bs-target="#international"
@@ -66,7 +66,25 @@
 
                 <div class="tab-content infrastructure_tab" id="pills-tabContent">
                     <div class="tab-pane fade show active" id="national" role="tabpanel" aria-labelledby="gallery_tabbing1">
+                        <div id="national"></div>
                         <div class="gallery_main_box_inner">
+                          <!---->
+                            <div class="collaboration_logo_box">
+                                <img src="{{ asset('assets/images/logos/national-collaborators/Thapar Institute_of_Engineering_and_Technology.png') }}" alt="Lab life">
+                                <div class="collab_partner_name">Thapar Institute of Engineering and Technology</div>
+                            </div>
+                            
+                            <div class="collaboration_logo_box">
+                                <img src="{{ asset('assets/images/logos/national-collaborators/Chandigarh_University.png') }}" alt="Lab life">
+                                <div class="collab_partner_name">Chandigarh University</div>
+                            </div>
+                            
+                            <div class="collaboration_logo_box">
+                                <img src="{{ asset('assets/images/logos/national-collaborators/Jaypee_Institute_of_Information_Technology.png') }}" alt="Lab life">
+                                <div class="collab_partner_name">Jaypee Institute of Information Technology</div>
+                            </div>
+                            
+                            <!---->
                            <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/national-collaborators/logo1.webp') }}" alt="Lab life">
                                 <div class="collab_partner_name">National Centre for Cell Science (NCCS)</div>
@@ -142,6 +160,7 @@
                         </div>
                     </div>
                     <div class="tab-pane fade" id="international" role="tabpanel" aria-labelledby="gallery_tabbing2">
+                        <div id="international"></div>
                         <div class="gallery_main_box_inner">
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-1.webp') }}" alt="Lab life">
@@ -149,39 +168,39 @@
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-2.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">RUSH Medical University Centre</div>
-                            </div>
-                            <div class="collaboration_logo_box">
-                                <img src="{{ asset('assets/images/logos/international-collaborators/logo-3.webp') }}" alt="Lab life">
                                 <div class="collab_partner_name">Pennsylvania State University</div>
                             </div>
                             <div class="collaboration_logo_box">
+                                <img src="{{ asset('assets/images/logos/international-collaborators/logo-3.webp') }}" alt="Lab life">
+                                <div class="collab_partner_name">All-Russian Collection of Microorganisms (VKM).</div>
+                            </div>
+                            <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-4.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Florida State University</div>
+                                <div class="collab_partner_name">Chungbuk National University</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-5.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Florida Agriculture and Mechanical University</div>
+                                <div class="collab_partner_name">Chinese Academy of Sciences</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-6.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">University of Georgia</div>
+                                <div class="collab_partner_name">JAMSTEC – Japan Agency for Marine-Earth Science and Technology</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-7.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Agricultural Research Organization,  Israel</div>
+                                <div class="collab_partner_name">Agricultural Research Organization – Volcani Center</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-8.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Japan Agency for Marine-Earth Science and Technology, Japan</div>
+                                <div class="collab_partner_name">University of Georgia</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-9.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Chinese Academy of Sciences, China</div>
+                                <div class="collab_partner_name">Florida Agricultural and Mechanical University</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-10.webp') }}" alt="Lab life">
-                                <div class="collab_partner_name">Chungbuk National University, South Korea</div>
+                                <div class="collab_partner_name">Florida State University</div>
                             </div>
                             <div class="collaboration_logo_box">
                                 <img src="{{ asset('assets/images/logos/international-collaborators/logo-11.webp') }}" alt="Lab life">

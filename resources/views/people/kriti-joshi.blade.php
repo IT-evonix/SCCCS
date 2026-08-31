@@ -61,8 +61,12 @@
                             <a href="mailto:phdgrad.kriti.joshi@siu.edu.in">phdgrad.kriti.joshi@siu.edu.in</a>
                         </div>
                     </div>
-                    <p>Kriti Joshi holds a Master’s degree in Zoology from the University of Calcutta, Kolkata, with a specialization in ecology and conservation. Her deep interest in environmental research motivates her to pursue research opportunities, ultimately leading her to the Centre. She now begins her PhD journey under the supervision of Dr. Om Prakash Sharma.</p>
-                    <p>Her doctoral research examines the fungal microbiome of the skin and its biochemical implications for diseases across different climatic zones in India. As global temperatures rise and climate conditions shift, the skin microbiome undergoes significant changes. Through her work, Kriti aims to clarify these complex microbial dynamics and contribute to a deeper understanding of climate-driven health impacts.</p>
+                    <p>
+                        Kriti's' doctoral research focuses on understanding the epidemiology of superficial fungal infections and their interactions with the skin microbiome under varying seasonal conditions. By integrating conventional microbiological techniques with advanced molecular and genomic approaches, the study seeks to enhance our understanding of superficial fungal infections and their clinical significance. The research aims to contribute to a deeper understanding of fungal infections and support the development of improved approaches for diagnosis, treatment, and disease management.
+
+                    </p>
+                    <!--<p>Kriti Joshi holds a Master’s degree in Zoology from the University of Calcutta, Kolkata, with a specialization in ecology and conservation. Her deep interest in environmental research motivates her to pursue research opportunities, ultimately leading her to the Centre. She now begins her PhD journey under the supervision of Dr. Om Prakash Sharma.</p>-->
+                    <!--<p>Her doctoral research examines the fungal microbiome of the skin and its biochemical implications for diseases across different climatic zones in India. As global temperatures rise and climate conditions shift, the skin microbiome undergoes significant changes. Through her work, Kriti aims to clarify these complex microbial dynamics and contribute to a deeper understanding of climate-driven health impacts.</p>-->
                     <p>Beyond her academic pursuits, she enjoys butterfly and birdwatching, exploring fictional literature, and traveling.</p>
                 </div>
                 <div class="socialmedia_box">

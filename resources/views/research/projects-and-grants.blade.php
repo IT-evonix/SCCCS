@@ -59,7 +59,7 @@
                                     Title: Harnessing Microalgae for Carbon Capture and Hard Carbon Synthesis in the Development of Sodium-Ion Battery Technology
                                 </div>
                                 <div class="count_text">
-                                    <div class="count_num">1</div> <div>Funding Agency- <span>Department of Biotechnology (DBT), GoI</span></div><div class="seprator">|</div><div>Sanction Year- <span>2025</span></div><div class="seprator">|</div><div>SIU, Chandigarh University- <span>PI - Om Prakash</span></div>
+                                    <div class="count_num">1</div> <div>Funding Agency- <span>Department of Biotechnology (DBT), GoI</span></div><div class="seprator">|</div><div>Sanction Year- <span>2026</span></div><div class="seprator">|</div><div>SIU, Chandigarh University- <span>PI - Om Prakash</span></div>
                                 </div>
                             </div>
                             <div class="projects_and_grants_right">
@@ -74,12 +74,12 @@
                                     Title: Constructed Wetlands for Wastewater Remediation
                                 </div>
                                 <div class="count_text">
-                                    <div class="count_num">2</div> <div>Funding Agency- <span>Department of Biotechnology (DBT)-BioCare</span></div><div class="seprator">|</div><div>Sanction Year- <span>2025</span></div><div class="seprator">|</div><div> <span>PI - Shumaila Ishtiaq</span></div>
+                                    <div class="count_num">2</div> <div>Funding Agency- <span>Department of Biotechnology (DBT)-BioCare</span></div><div class="seprator">|</div><div>Sanction Year- <span>2025</span></div><div class="seprator">|</div><div> <span>PI - Shumailah Ishtiyaq</span></div>
                                 </div>
                             </div>
                             <div class="projects_and_grants_right">
                                 <div class="project_details">
-                                    <h6>Amount (INR)</h6> <div class="project_amount">52 Lakhs</div>
+                                    <h6>Amount (INR)</h6> <div class="project_amount">48.75 Lakhs</div>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
                                     Title: Multidimensional assessment of ecological dynamics and ecosystem health of selected high-altitude wetlands of the Indian Himalayan region for effective conservation and management planning.
                                 </div>
                                 <div class="count_text">
-                                    <div class="count_num">5</div> <div>Funding Agency- <span>Ministry of Environement, Forests & Climate Change (MoEF&CC), GoI</span></div><div class="seprator">|</div><div>Sanction Year- <span>2024</span></div><div class="seprator">|</div><div>IIT Kharagpur etc- <span>PI - Om Prakash</span></div>
+                                    <div class="count_num">5</div> <div>Funding Agency- <span>Ministry of Environment, Forests & Climate Change (MoEF&CC), GoI</span></div><div class="seprator">|</div><div>Sanction Year- <span>2024</span></div><div class="seprator">|</div><div>IIT Kharagpur etc- <span>PI - Om Prakash</span></div>
                                 </div>                                 
                             </div>
                             <div class="projects_and_grants_right">

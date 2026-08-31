@@ -31,15 +31,22 @@
         </div>
      </div>
     <!-- Breadcrumb End -->
-    <div class="container mb-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="heading mt-5 mb-5">
-                    Coming Soon
+    <div class="gallery_main_sec">
+        <div class="container">
+            <div class="gallery_main_box">
+                <div class="gallery_main_box_inner">
+                    <div class="gallery_box">
+                        <a href="{{ asset('assets/pdf/SIU Nature Photography Competition 2026.pdf') }}" target="_blank">
+                            <img src="{{ asset('assets/images/events/siu-nature-photography-2026-1.webp') }}" alt="SIU Nature Photography Competition 2026" style="object-fit: contain !important; background-color: #eeebe6;" />
+                        </a>
+                        <a href="{{ asset('assets/pdf/SIU Nature Photography Competition 2026.pdf') }}" target="_blank" style="text-decoration: none; height: auto; display: block; overflow: visible;">
+                            <h6 style="text-align: center; margin-top: 10px; font-size: 14px; color: #7A7A7A; font-family: 'Montserrat-Regular'; font-weight: inherit;">SIU Nature Photography Competition 2026</h6>
+                        </a>
+                    </div>
+                    
                 </div>
             </div>
         </div>
     </div>
 </main>
 @include('footer')
-

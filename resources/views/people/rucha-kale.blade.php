@@ -12,7 +12,7 @@
             <div class="banner_content">
                 <div class="container">
                     <div class="banner_text">
-                        <h1>Rucha Kale</h1>
+                        <h1>Rucharani Kale</h1>
                     </div>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
                 
                 <li>People</li> /
-                <li>Rucha Kale</li>
+                <li>Rucharani Kale</li>
             </ul>
         </div>
      </div>
@@ -51,16 +51,16 @@
                     <div class="profile_intro">
                         <div class="div">
                             <div class="profile_heading heading">
-                                Rucha Kale
+                               Rucharani Kale
                             </div>
-                            <div class="profile_position">Senior Coordinator</div>
+                            <div class="profile_position">Supervisor</div>
                         </div>
                         <div class="emailbox">
                             <a href="mailto:rucharani.kale@siu.edu.in">rucharani.kale@siu.edu.in</a>
                         </div>
                     </div>
-                    <p>A strong pillar of the Centre, meet our Senior Coordinator, Rucha (Kulkarni) Kale!</p>
-                    <p>Ms. Rucha is a commerce graduate from Symbiosis College of Arts & Commerce and holds dual postgraduate degrees—Master's in Management Sciences and Master's in Personnel Management—from the prestigious Savitribai Phule Pune University. With over 16 years of diverse professional experience across academic and non-academic sectors, she has worked with reputed organizations such as Cholamandalam Ltd., Symbiosis Institute of Business Management, Pune (SIBM), Symbiosis Head Office Central HR, and Symbiosis Statistical Institute, Pune (SSI). Her wide-ranging exposure across corporate and educational environments equips her with a strong foundation in administration and human resource management.</p>
+                    <p>A strong pillar of the Centre, meet our Supervisor, Rucharani (Kulkarni) Kale!</p>
+                    <p>Ms. Rucharani is a commerce graduate from Symbiosis College of Arts & Commerce and holds dual postgraduate degrees—Master's in Management Sciences and Master's in Personnel Management—from the prestigious Savitribai Phule Pune University. With over 16 years of diverse professional experience across academic and non-academic sectors, she has worked with reputed organizations such as Cholamandalam Ltd., Symbiosis Institute of Business Management, Pune (SIBM), Symbiosis Head Office Central HR, and Symbiosis Statistical Institute, Pune (SSI). Her wide-ranging exposure across corporate and educational environments equips her with a strong foundation in administration and human resource management.</p>
                     <p>She has been an integral part of the Centre since its inception, contributing significantly to its growth and operations. In her current role, she oversees key functions related to Administration and Human Resources, ensuring smooth and effective organizational management. Alongside her administrative responsibilities, she actively participates in Centre initiatives, playing a meaningful role in social outreach and community engagement efforts.</p>
                     <p>In her free time, she enjoys listening to music, particularly instrumental genres. She loves visiting beaches, as they allow her to unwind from routine and appreciate the simple pleasures of nature.</p>
                 </div>

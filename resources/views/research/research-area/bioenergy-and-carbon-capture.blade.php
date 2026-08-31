@@ -64,6 +64,18 @@
                                 <div class="areas_of_research_mask"></div>
                             </div>
                         </div>
+                           <div class="areas_of_research_box areas_of_research_box1">
+                            <div class="areas_of_research_left">
+                                <div class="subheading">
+                                     From Carbon to Current: Powering Batteries with Microalgae  
+                                </div>
+                                <p>The project “Harnessing Microalgae for Carbon Capture and Hard Carbon Synthesis in the Development of Sodium-Ion Battery Technology”, supported by the Department of Biotechnology under the BioE3 policy, represents a cutting-edge convergence of biotechnology, climate action, and clean energy innovation. At its core, the project leverages microalgae's natural ability to capture atmospheric carbon dioxide through photosynthesis, transforming it into valuable biomass. This approach not only contributes to carbon mitigation but also opens pathways for sustainable resource utilization through a circular bioeconomy framework.</p>
+                                <p>What makes this initiative particularly impactful is its focus on converting algal biomass into hard carbon, a critical material for next-generation sodium-ion batteries. As the world seeks alternatives to lithium-based technologies, sodium-ion batteries offer a more abundant and cost-effective solution for energy storage. By linking carbon capture directly to advanced material synthesis, this collaborative project aims to create a closed-loop system in which emissions are not just reduced but repurposed into clean energy technologies—paving the way for scalable, climate-resilient solutions.</p>
+                            </div>
+                            <div class="areas_of_research_right">
+                                <div class="areas_of_research_mask"></div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

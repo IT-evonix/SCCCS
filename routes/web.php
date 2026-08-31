@@ -65,14 +65,15 @@ Route::get('/about-scccs', function () {
     $data_arr['canonical'] = "";
     return view('about-us.about-scccs', ['data_arr' => $data_arr]);
 });
-Route::get('/head-of-centre', function () {
-    $data_arr = array();
-    $data_arr['title'] = "Head of Center";
-    $data_arr['keywords'] = "SCCCS Head of Center";
-    $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
-    $data_arr['canonical'] = "";
-    return view('about-us.head-of-centre', ['data_arr' => $data_arr]);
-});
+
+// Route::get('/head-of-centre', function () {
+//     $data_arr = array();
+//     $data_arr['title'] = "Head of Center";
+//     $data_arr['keywords'] = "SCCCS Head of Center";
+//     $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+//     $data_arr['canonical'] = "";
+//     return view('about-us.head-of-centre', ['data_arr' => $data_arr]);
+// });
 Route::get('/deputy-head-center', function () {
     $data_arr = array();
     $data_arr['title'] = "Deputy Head Center";
@@ -380,6 +381,23 @@ Route::get('/alumni', function () {
     $data_arr['canonical'] = "";
     return view('people.alumni', ['data_arr' => $data_arr]);
 });
+Route::get('/interns', function () {
+    $data_arr = array();
+    $data_arr['title'] = "Interns";
+    $data_arr['keywords'] = "Interns";
+    $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+    $data_arr['canonical'] = "";
+    return view('people.interns', ['data_arr' => $data_arr]);
+});
+// Route::get('/anushka-awad', function () {
+//     $data_arr = array();
+//     $data_arr['title'] = "Interns";
+//     $data_arr['keywords'] = "Interns";
+//     $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+//     $data_arr['canonical'] = "";
+//     return view('people.anushka-awad', ['data_arr' => $data_arr]);
+// });
+
 // Faculty End
 
 Route::get('/sustainability-initiatives', function () {

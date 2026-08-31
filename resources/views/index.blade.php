@@ -4,44 +4,94 @@
     <div class="banner-section hero_slider">
         <div class="hero_slider_inner owl-carousel">
             <div class="banner_wrapper hero_sec_inner">
+            <div class="banner-bg">
+                <picture>
+                    <source media="(max-width: 767px)" srcset="{{ asset('assets/images/banners/Banner-Option-new-mobile.webp') }}">
+                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" width="1600" height="708" style="height: auto;" fetchpriority="high" alt="Banner Image">
+                </picture>
+            </div>
+        </div>
+            <!--            <div class="banner_wrapper hero_sec_inner">-->
+            <!--    <div class="banner-bg">-->
+            <!--        <img class="img-fluid" src="{{ asset('assets/images/banners/PhD_Admissions_Banner.webp') }}" alt="Banner Image" class="img-fluid">-->
+            <!--    </div>-->
+            <!--</div>-->
+
+            <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide1.webp') }}" width="1600" height="708" alt="Banner Image">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide2.webp') }}" width="1600" height="708" alt="Banner Image">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img class="img-fluid" src="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" alt="Banner Image" class="img-fluid">
-                </div>
-            </div>
-            <!-- <div class="banner_wrapper hero_sec_inner">
-                <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/Banner-Option.jpeg') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide3.webp') }}" width="1600" height="708" alt="Banner Image">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/Banner-Option-5.jpeg') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide4.webp') }}" width="1600" height="708" alt="Banner Image">
                 </div>
             </div>
             <div class="banner_wrapper hero_sec_inner">
                 <div class="banner-bg">
-                    <img src="{{ asset('assets/images/banners/Banner-Option-6.jpeg') }}" alt="Banner Image" class="img-fluid">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide5.webp') }}" width="1600" height="708" alt="Banner Image">
                 </div>
-            </div> -->
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/SCCCS_2025_Slide_6_updated.webp') }}" width="815" height="360" alt="Banner Image">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide7.webp') }}" width="1600" height="708" alt="Banner Image">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide8.webp') }}" width="1600" height="708" alt="Banner Image">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide9.webp') }}" width="1600" height="708" alt="Banner Image">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide10.webp') }}" width="1600" height="708" alt="Banner Image">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide11.webp') }}" width="1600" height="708" alt="Banner Image">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide12.webp') }}" width="1600" height="708" alt="Banner Image">
+                </div>
+            </div>
+            <div class="banner_wrapper hero_sec_inner">
+                <div class="banner-bg">
+                    <img class="img-fluid owl-lazy" data-src="{{ asset('assets/images/banners/Slide13.webp') }}" width="1600" height="708" alt="Banner Image">
+                </div>
+            </div>
         </div>
     </div>
     <!-- BANNER SECTION END -->
 
     <!-- Announcement Start -->
     <div class="announcement_sec">
-        <div class="announcement_head"><img src="{{ asset('assets/images/announcement.webp') }}" alt=""> Latest Announcement</div>
+        <div class="announcement_head"><img src="{{ asset('assets/images/announcement.webp') }}" width="200" height="200" style="height: auto;" alt=""> Latest Announcement</div>
         <marquee behavior="scroll" direction="left">
-            <span>Admissions are now open. Apply before 30th December!</span>
+            <!--<span>Admissions are now open. Apply before 30th December!</span>-->
+            <span> SCCCS celebrates its 4th Foundation Day on 7th March 2026</span>
         </marquee>
     </div>
     <!-- Announcement End -->
@@ -55,7 +105,7 @@
                         <div class="row justify-content-center flex-sm-row-reverse">
                             <div class="col-lg-7 col-md-6">
                                 <div class="aboutright">
-                                    <img class="img-fluid" src="{{ asset('assets/images/home/about-us.webp') }}" alt="about image">
+                                    <img class="img-fluid" src="{{ asset('assets/images/home/about_us_new.webp') }}" width="600" height="450" loading="lazy" style="height: auto;" alt="about image">
                                 </div>
                             </div>
                             <div class="col-lg-5 col-md-6 d-flex align-items-center">
@@ -68,7 +118,7 @@
                                     </ul> -->
                                     <p>“Climate change is not just an environmental issue—it is shaping the future of investment, technology, and human development in the 21st century.”</p>
                                     <a href="<?= url('/about-scccs'); ?>" class="readmore">
-                                        Read More <img src="{{ asset('assets/images/readmore.svg') }}" alt="read more">
+                                        Read More <img src="{{ asset('assets/images/readmore.svg') }}" width="14" height="14" loading="lazy" style="height: auto;" alt="read more">
                                     </a>
                                 </div>
                             </div>                            
@@ -89,14 +139,14 @@
                         <div class="row">
                             <div class="col-md-6 d-flex align-items-center d-lg-block d-none">
                                 <div class="visionmision_left">
-                                    <img class="img-fluid" src="{{ asset('assets/images/home/vision-mision-img.webp') }}" alt="vision mision img">
+                                    <img class="img-fluid" src="{{ asset('assets/images/home/vision-mision-img.webp') }}" width="630" height="630" loading="lazy" style="height: auto;" alt="vision mision img">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12">
                                 <div class="visionmision_right">
                                     <div class="visionmision_inner_box">
                                         <div class="visionimg_box">
-                                            <img class="img-fluid" src="{{ asset('assets/images/home/vision.webp') }}" alt="vision icon">
+                                            <img class="img-fluid" src="{{ asset('assets/images/home/vision.webp') }}" width="264" height="278" loading="lazy" style="height: auto;" alt="vision icon">
                                         </div>
                                         <div class="visiontext_box">
                                             <div class="heading">
@@ -107,7 +157,7 @@
                                     </div>
                                     <div class="visionmision_inner_box">
                                         <div class="visionimg_box">
-                                            <img class="img-fluid" src="{{ asset('assets/images/home/mission.webp') }}" alt="mission icon">
+                                            <img class="img-fluid" src="{{ asset('assets/images/home/mission.webp') }}" width="264" height="278" loading="lazy" style="height: auto;" alt="mission icon">
                                         </div>
                                         <div class="visiontext_box">
                                             <div class="heading">
@@ -135,9 +185,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="research_focus_areas_inner">
-                        <img class="img-fluid main-image" src="{{ asset('assets/images/home/RESEARCH-FOCUS-AREAS.webp') }}" alt="RESEARCH FOCUS AREAS">
+                        <img class="img-fluid main-image" src="{{ asset('assets/images/home/RESEARCH-FOCUS-AREAS.webp') }}" width="1000" height="880" loading="lazy" style="height: auto;" alt="RESEARCH FOCUS AREAS">
                         <div class="research_focus_areas_box research_focus_areas_box1" data-aos="fade-up" data-aos-duration="500">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/one-health.svg') }}" alt="One Health"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/one-health.svg') }}" width="72.364" height="72.361" loading="lazy" style="height: auto;" alt="One Health"></div>
                             <div class="research_subheading">
                                 One Health: Connecting Environmental, Animal, and Human Wellbeing
                             </div>
@@ -149,28 +199,30 @@
                             </ul>
                         </div>
                         <div class="research_focus_areas_box research_focus_areas_box2" data-aos="fade-up" data-aos-duration="700">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/climate-change.svg') }}" alt="Water & Climate Change"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/climate-change.svg') }}" width="52.135" height="61.922" loading="lazy" style="height: auto;" alt="Water & Climate Change"></div>
                             <div class="research_subheading">
-                                Water & Climate Change: The Invisible Crisis in Our Treatment Systems
+                               Water & Climate Change: The Invisible Crisis
                             </div>
                             <ul>
                                 <li>N₂O emissions from wastewater treatment </li>
                                 <li>AMR spreads in water ecosystems</li>
                                 <li>Constructed wetlands for effluent treatment</li>
+                                <li>Himalayan Wetlands at the Climate Crossroads</li>
                             </ul>
                         </div>
                         <div class="research_focus_areas_box research_focus_areas_box3" data-aos="fade-up" data-aos-duration="1000">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/carbon-capture.svg') }}" alt="Bioenergy & Carbon Capture"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/carbon-capture.svg') }}" width="54.423" height="61.922" loading="lazy" style="height: auto;" alt="Bioenergy & Carbon Capture"></div>
                             <div class="research_subheading">
                                 Bioenergy & Carbon Capture: Transforming Waste into Climate Solutions
                             </div>
                             <ul>
                                 <li>Hydrogenotrophic methanogens for high-quality biogas</li>
-                                <li>Renewable energy integration</li>                                 
+                                <li>Renewable energy integration</li>    
+                                <li>From Carbon to Current: Powering Batteries with Microalgae</li>
                             </ul>
                         </div>
                         <div class="research_focus_areas_box research_focus_areas_box4" data-aos="fade-up" data-aos-duration="1500">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/waste-management.svg') }}" alt="Biodiversity & Waste Management"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/waste-management.svg') }}" width="85.652" height="87.038" loading="lazy" style="height: auto;" alt="Biodiversity & Waste Management"></div>
                             <div class="research_subheading">
                                 Biodiversity to Conservation Models
                             </div>
@@ -180,7 +232,7 @@
                             </ul>
                         </div>
                         <div class="research_focus_areas_box research_focus_areas_box5" data-aos="fade-up" data-aos-duration="1500">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/carbon-mitigation.svg') }}" alt="Sustainable Agriculture & Carbon Mitigation"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/carbon-mitigation.svg') }}" width="61.922" height="60.923" loading="lazy" style="height: auto;" alt="Sustainable Agriculture & Carbon Mitigation"></div>
                             <div class="research_subheading">
                                 Sustainable Agriculture & Carbon Mitigation: Reimagining Food Production for Climate Solutions
                             </div>
@@ -190,7 +242,7 @@
                             </ul>
                         </div>
                         <div class="research_focus_areas_box research_focus_areas_box6" data-aos="fade-up" data-aos-duration="1000">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/energy-and-urban.webp') }}" alt="Sustainable Agriculture & Carbon Mitigation"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/energy-and-urban.webp') }}" width="208" height="208" loading="lazy" style="height: auto;" alt="Sustainable Agriculture & Carbon Mitigation"></div>
                             <div class="research_subheading">
                                 Energy and Urban Sustainability
                             </div>
@@ -201,7 +253,7 @@
                             </ul>
                         </div>
                         <div class="research_focus_areas_box research_focus_areas_box7" data-aos="fade-up" data-aos-duration="700">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/campus-sustainability.webp') }}" alt="Sustainable Agriculture & Carbon Mitigation"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/campus-sustainability.webp') }}" width="205" height="205" loading="lazy" style="height: auto;" alt="Sustainable Agriculture & Carbon Mitigation"></div>
                             <div class="research_subheading">
                                 Campus Sustainability
                             </div>
@@ -212,7 +264,7 @@
                             </ul>
                         </div>
                         <div class="research_focus_areas_box research_focus_areas_box8" data-aos="fade-up" data-aos-duration="500">
-                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/climate-education.webp') }}" alt="Sustainable Agriculture & Carbon Mitigation"></div>
+                            <div class="icon_mobile_img"><img class="img-fluid" src="{{ asset('assets/images/home/climate-education.webp') }}" width="179" height="159" loading="lazy" style="height: auto;" alt="Sustainable Agriculture & Carbon Mitigation"></div>
                             <div class="research_subheading">
                                 Climate Education and Capacity Building
                             </div>
@@ -243,31 +295,31 @@
                 <div class="co-md-12">
                     <div class="research_highlights_inner">
                         <div class="research_highlights_box">
-                            <img class="img-fluid" src="{{ asset('assets/images/home/publications.webp') }}" alt="publications">
+                            <img class="img-fluid" src="{{ asset('assets/images/home/publications.webp') }}" width="500" height="851" loading="lazy" style="height: auto;" alt="publications">
                             <div class="research_content">
                                 <h6 class="div">publications</h6>
-                                <a class="readmore" href="<?= url('/coming-soon-for-publication'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" alt="Read More"></a>
+                                <a class="readmore" href="<?= url('/coming-soon-for-publication'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" width="14.096" height="14.092" style="height: auto;" alt="Read More"></a>
                             </div>
                         </div>
                         <div class="research_highlights_box">
-                            <img class="img-fluid" src="{{ asset('assets/images/home/research-grants.webp') }}" alt="research grants">
+                            <img class="img-fluid" src="{{ asset('assets/images/home/research-grants.webp') }}" width="500" height="851" loading="lazy" style="height: auto;" alt="research grants">
                             <div class="research_content">
                                 <h6 class="div">Research Grants</h6>
-                                <a class="readmore" href="<?= url('/projects-and-grants'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" alt="Read More"></a>
+                                <a class="readmore" href="<?= url('/projects-and-grants'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" width="14.096" height="14.092" style="height: auto;" alt="Read More"></a>
                             </div>
                         </div>
                         <div class="research_highlights_box">
-                            <img class="img-fluid" src="{{ asset('assets/images/home/Donors.webp') }}" alt="Donors">
+                            <img class="img-fluid" src="{{ asset('assets/images/home/Donors.webp') }}" width="500" height="851" loading="lazy" style="height: auto;" alt="Donors">
                             <div class="research_content">
                                 <h6 class="div">DONORS/FUNDING AGENCIES</h6>
-                                <a class="readmore" href="<?= url('/projects-and-grants'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" alt="Read More"></a>
+                                <a class="readmore" href="<?= url('/projects-and-grants'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" width="14.096" height="14.092" style="height: auto;" alt="Read More"></a>
                             </div>
                         </div>
                         <div class="research_highlights_box">
-                            <img class="img-fluid" src="{{ asset('assets/images/gallery/infrastructure/Mini-Centrifuge-Remi-RM-02-Plus.webp') }}" alt="Infrastructure">
+                            <img class="img-fluid" src="{{ asset('assets/images/gallery/infrastructure/Mini-Centrifuge-Remi-RM-02-Plus.webp') }}" width="400" height="533" loading="lazy" style="height: auto;" alt="Infrastructure">
                             <div class="research_content">
                                 <h6 class="div">Infrastructure (Facilities & Equipment) </h6>
-                                <a class="readmore" href="<?= url('/life-at-scccs'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" alt="Read More"></a>
+                                <a class="readmore" href="<?= url('/life-at-scccs'); ?>">Read <span>More</span> <img src="{{ asset('assets/images/readmore.svg') }}" width="14.096" height="14.092" style="height: auto;" alt="Read More"></a>
                             </div>
                         </div>
                     </div>
@@ -296,59 +348,61 @@
                         </ul>
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="nationaltab" role="tabpanel" aria-labelledby="national-tab">
+                                <div id="national"></div>
                                 <div class="collaborations_logos">
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo1.webp') }}" alt="logo1">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo1.webp') }}" width="200" height="68" loading="lazy" style="height: auto;" alt="logo1">
                                         <div class="collab_partner_name">National Centre for Cell Science (NCCS)</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo2.webp') }}" alt="logo2">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo2.webp') }}" width="200" height="200" loading="lazy" style="height: auto;" alt="logo2">
                                         <div class="collab_partner_name">Kumaun University (KU), Uttarakhand</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo3.webp') }}" alt="logo3">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo3.webp') }}" width="200" height="55" loading="lazy" style="height: auto;" alt="logo3">
                                         <div class="collab_partner_name">The Energy and Resources Institute, Delhi</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo4.webp') }}" alt="logo4">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo4.webp') }}" width="200" height="57" loading="lazy" style="height: auto;" alt="logo4">
                                         <div class="collab_partner_name">Breach Candy Hospital Trust, Mumbai</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo5.webp') }}" alt="logo5">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/national-collaborators/logo5.webp') }}" width="200" height="200" loading="lazy" style="height: auto;" alt="logo5">
                                         <div class="collab_partner_name">Agharkar Research Institute, Pune</div>
                                     </div>                                   
                                     <div class="collaborations_logo collaborations_logoread">
-                                        <a class="readmore" href="<?= url('/collaborators?tab=national'); ?>">
-                                            Read More <img class="img-fluid" src="{{ asset('assets/images/readmore.svg') }}" alt="readmore">
+                                        <a class="readmore" href="<?= url('https://scccs.siu.edu.in/institutional-partners#national'); ?>">
+                                            Read More <img class="img-fluid" src="{{ asset('assets/images/readmore.svg') }}" width="14" height="14" loading="lazy" style="height: auto;" alt="readmore">
                                         </a>
                                     </div>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="internationaltab" role="tabpanel" aria-labelledby="internationaltab-tab">
+                                <div id="international"></div>
                                 <div class="collaborations_logos">
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-1.webp') }}" alt="logo1">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-1.webp') }}" width="300" height="300" loading="lazy" style="height: auto;" alt="logo1">
                                          <div class="collab_partner_name">Georgia Institute of Technology</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-2.webp') }}" alt="logo2">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-2.webp') }}" width="300" height="296" loading="lazy" style="height: auto;" alt="logo2">
                                          <div class="collab_partner_name">Pennsylvania State University</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-3.webp') }}" alt="logo3">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-3.webp') }}" width="300" height="121" loading="lazy" style="height: auto;" alt="logo3">
                                          <div class="collab_partner_name">All-Russian Collection of Microorganisms (VKM), Russia</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-4.webp') }}" alt="logo4">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-4.webp') }}" width="300" height="300" loading="lazy" style="height: auto;" alt="logo4">
                                          <div class="collab_partner_name">Chungbuk National University, South Korea</div>
                                     </div>
                                     <div class="collaborations_logo">
-                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-5.webp') }}" alt="logo5">
+                                        <img class="img-fluid" src="{{ asset('assets/images/logos/international-collaborators/logo-5.webp') }}" width="300" height="269" loading="lazy" style="height: auto;" alt="logo5">
                                          <div class="collab_partner_name">Chinese Academy of Sciences, China</div>
                                     </div>                                   
                                     <div class="collaborations_logo collaborations_logoread">
-                                        <a class="readmore" href="<?= url('/collaborators?tab=international'); ?>">
-                                            Read More <img class="img-fluid" src="{{ asset('assets/images/readmore.svg') }}" alt="readmore">
+                                        <a class="readmore" href="<?= url("https://scccs.siu.edu.in/institutional-partners#international"); ?>">
+                                            Read More <img class="img-fluid" src="{{ asset('assets/images/readmore.svg') }}" width="14" height="14" loading="lazy" style="height: auto;" alt="readmore">
                                         </a>
                                     </div>
                                 </div>
@@ -358,7 +412,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="collaborations_right">
-                        <img src="{{ asset('assets/images/home/map.webp') }}" alt="map">
+                        <img src="{{ asset('assets/images/home/map.webp') }}" width="694" height="324" loading="lazy" style="height: auto;" alt="map">
                     </div>  
                 </div>
             </div>
@@ -423,4 +477,3 @@
       
 </main>
 @include('footer')
-

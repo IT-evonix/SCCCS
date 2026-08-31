@@ -10,15 +10,24 @@
     <link rel="canonical" href="{{ $canonicalUrl }}">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> -->
-	<link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
-	<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
+    <!-- Preload core render-blocking CSS & critical fonts -->
+    <link rel="preload" href="{{ asset('assets/fonts/Montserrat-Regular.woff2') }}" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="{{ asset('assets/fonts/Montserrat-Medium.woff2') }}" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="{{ asset('assets/css/bootstrap.min.css') }}" as="style">
+    <link rel="preload" href="{{ asset('assets/css/style.min.css') }}" as="style">
+    <link rel="preload" href="{{ asset('assets/css/owl.carousel.min.css') }}" as="style">
+    <link rel="preload" href="{{ asset('assets/css/owl.theme.default.min.css') }}" as="style">
+
+    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/owl.theme.default.min.css') }}">
+    @if(Request::is('visitors-to-scccs') || Request::is('seminars-workshops-conferences'))
+	<link rel="preload" href="{{ asset('assets/css/fancybox.css') }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    @endif
+	<link rel="stylesheet" href="{{ asset('assets/css/aos.css') }}" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="{{ asset('assets/css/aos.css') }}"></noscript>
     
 	<meta property="og:title" content="SCCCS">
     <meta property="og:site_name" content="Symbiosis Centre for Climate Change and Sustainability (SCCCS),">
@@ -26,10 +35,18 @@
     <meta property="og:description" content="SCCCS">
     <meta property="og:type" content="website">
 	<meta property="og:image" content="https://testblog.democheck.in/scccs/assets/images/SCCCS_link.jpg">
-    <link rel="preload" fetchpriority="high" as="image" href="{{ENV('APP_URL')}}assets/images/logo.webp" type="image/webp">
-    <link rel="preload" fetchpriority="high" as="image" href="{{ENV('APP_URL')}}assets/images/banners/banner.webp" type="image/webp">
-    <link rel="preload" fetchpriority="high" as="image" href="{{ENV('APP_URL')}}assets/images/home/about-us.webp" type="image/webp">
-	<link rel="preload" href="../fonts/Montserrat-Medium.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" fetchpriority="high" as="image" href="{{ asset('assets/images/logo.webp') }}" type="image/webp">
+    @if(Request::is('/') || Request::is('index') || Request::is('index.php'))
+        <!-- Media conditional preload for LCP banner to load the correct version on mobile vs desktop -->
+        <link rel="preload" fetchpriority="high" as="image" href="{{ asset('assets/images/banners/Banner-Option-new-mobile.webp') }}" type="image/webp" media="(max-width: 767px)">
+        <link rel="preload" fetchpriority="high" as="image" href="{{ asset('assets/images/banners/Banner-Option-new.webp') }}" type="image/webp" media="(min-width: 768px)">
+    @endif
+	<!--<link rel="preload" href="../fonts/Montserrat-Medium.woff2" as="font" type="font/woff2" crossorigin>-->
+	<link rel="preload" 
+      href="/assets/fonts/Montserrat-Medium.woff2" 
+      as="font" 
+      type="font/woff2" 
+      crossorigin>
 </head>
 
 
@@ -39,14 +56,14 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="logobox d-block d-lg-none">
-						<a href="<?= url('/'); ?>"><img src="{{ asset('assets/images/logo.webp') }}" alt="logo"></a>
+						<a href="<?= url('/'); ?>"><img src="{{ asset('assets/images/logo.webp') }}" width="600" height="65" style="height: auto;" alt="logo"></a>
 					</div>
 					<div class="desk-menu">
 						<nav class="box-menu">
 							<div class="menu-container">
 								<div class="menu-header-container">
 									<div class="logobox d-lg-block d-none">
-										<a href="<?= url('/'); ?>"><img src="{{ asset('assets/images/logo.webp') }}" alt="logo"></a>
+										<a href="<?= url('/'); ?>"><img src="{{ asset('assets/images/logo.webp') }}" width="600" height="65" style="height: auto;" alt="logo"></a>
 									</div>
 									<ul id="cd-primary-nav" class="menu">
 										<li class="menu-item menu-item-has-children">
@@ -59,17 +76,17 @@
 													<a href="#">Leadership</a>
 													<ul class="sub-menu">
 														<li class="menu-item">
-															<a target="_blank" href="<?= url('https://www.siu.edu.in/leadership/prof-dr-s-b-mujumdar'); ?>">Chancellor</a>
+															<a target="_blank" href="<?= url('https://www.siu.edu.in/leadership/prof-dr-s-b-mujumdar'); ?>">Founder and President</a>
 														</li>
 														<li class="menu-item">
-															<a target="_blank" href="<?= url('https://www.siu.edu.in/leadership/dr-vidya-yeravdekar'); ?>">Pro-Chancellor</a>
+															<a target="_blank" href="<?= url('https://www.siu.edu.in/leadership/dr-vidya-yeravdekar'); ?>">Chancellor</a>
 														</li>
 														<li class="menu-item">
 															<a target="_blank" href="<?= url('https://www.siu.edu.in/leadership/dr-ramakrishnan-raman'); ?>">Vice Chancellor</a>
 														</li>
-														<li class="menu-item">
-															<a href="<?= url('/head-of-centre'); ?>">Head of Centre</a>
-														</li>
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/head-of-centre'); ?>">Head of Centre</a>-->
+														<!--</li>-->
 														<li class="menu-item">
 															<a href="<?= url('/deputy-head-center'); ?>">Deputy Head of Centre</a>
 														</li>
@@ -186,11 +203,11 @@
 												<li class="menu-item menu-item-has-children">
 													<a href="#">Faculty</a>
 													<ul class="sub-menu">
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/head-of-centre'); ?>">Head - Prakash Rao</a>-->
+														<!--</li>-->
 														<li class="menu-item">
-															<a href="<?= url('/head-of-centre'); ?>">Head of Centre</a>
-														</li>
-														<li class="menu-item">
-															<a href="<?= url('/deputy-head-center'); ?>">Deputy Head of Centre</a>
+															<a href="<?= url('/deputy-head-center'); ?>"> Deputy Head - Om Prakash</a>
 														</li>
 													</ul>
 												</li>
@@ -201,7 +218,7 @@
 													<a href="#">Staff</a>
 													<ul class="sub-menu">
 														<li class="menu-item">
-															<a target="_blank" href="<?= url('/rucha-kale'); ?>">Rucha Kale</a>
+															<a target="_blank" href="<?= url('/rucha-kale'); ?>"> Rucharani Kale</a>
 														</li>
 													</ul>
 												</li>
@@ -281,13 +298,8 @@
 														</li>
 													</ul>
 												</li>
-												<li class="menu-item menu-item-has-children">
-													<a href="#">Interns</a>
-													<ul class="sub-menu">
-														<li class="menu-item">
-															<a href="<?= url('/coming-soon'); ?>">Vishwa Raulji</a>
-														</li>
-													</ul>
+												<li class="menu-item">
+													<a href="<?= url('/interns'); ?>">Interns</a>
 												</li>
 												<li class="menu-item">
 													<a href="<?= url('/alumni'); ?>">Alumni</a>

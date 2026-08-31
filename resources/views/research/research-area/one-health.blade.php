@@ -75,6 +75,18 @@
                                 <div class="areas_of_research_mask"></div>
                             </div>
                         </div>
+                        <div class="areas_of_research_box areas_of_research_box4">
+                             <div class="areas_of_research_right">
+                                <div class="areas_of_research_mask"></div>
+                            </div>
+                            <div class="areas_of_research_left">
+                                <div class="subheading">
+                                     Landfills & Infectious Diseases
+                                </div>
+                                <p>Urban landfills serve as disease reservoirs and pollution epicenters, affecting surrounding communities through multiple pathways. Our comprehensive research investigates landfill-linked health impacts, examining the prevalence of infectious diseases in populations within 2-3 kilometers of major landfill sites. We document elevated rates of respiratory infections from airborne particulate matter and toxic gases, gastrointestinal diseases from leachate-contaminated groundwater used for drinking and irrigation, and vector-borne diseases from mosquito breeding grounds in stagnant wastewater. Using multi-method approaches—household health surveys, environmental monitoring of air quality parameters, water sampling to track groundwater contamination gradients for heavy metals and persistent pollutants, and soil analysis to document agricultural land contamination—we reveal the full scope of landfill impacts. This research is critical because rising temperatures accelerate decomposition and the release of volatile compounds, intense rainfall mobilizes leachate over wider areas, and extended warm seasons prolong vector breeding, thereby compounding health risks. Our findings inform intervention strategies, including scientifically determined buffer zones, mandated engineering controls such as impermeable liners and gas collection systems, and transitions toward integrated waste management that emphasizes source segregation, recycling, composting, and waste-to-energy technologies to minimize landfill dependence.</p>
+                            </div>
+                           
+                        </div>
                     </div>
                 </div>
             </div>
