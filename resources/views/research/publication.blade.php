@@ -124,7 +124,73 @@
                             <th scope="col">Year</th>
                         </tr>
                     </thead>
+     
                     <tbody class="tablebody">
+                        <!---->
+                                                  <tr>
+    <th scope="row"></th>
+    <td>
+        <a target="_blank" href="https://link.springer.com/content/pdf/10.1007/s43621-026-04654-z_reference.pdf">
+Functional roles of Actinomycetota in agroecosystem resilience under climate and environmental stress</td>
+    <td> Discover Sustainability</td>
+    <td>Om Prakash</td></td>
+    <td>2026</td>
+</tr>
+        
+                        
+                          <tr>
+    <th scope="row"></th>
+    <td>
+        <a target="_blank" href="https://www.proquest.com/docview/3378059422/fulltextPDF/1F9E9A83A18D4579PQ/1?accountid=166904&sourcetype=Scholarly%20Journals">
+ Environmental, Social, and Governance (ESG): A holistic
+approach to sustainability</td>
+    <td> Journal of Environmental Biology
+</td>
+    <td>Om Prakash</td></td>
+    <td>2026</td>
+</tr>
+                        
+   <tr>
+    <th scope="row"></th>
+    <td>
+        <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S2589004226020705">
+Climate change impact on disease emergence and antimicrobial resistance: A perspective on transmission and detection    </td>
+    <td>Journal - iScience
+</td>
+    <td> Prakash Rao, Om Prakash</td></td>
+    <td>2026</td>
+</tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+        <a target="_blank" href=" https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1869658/full">
+Microbial load, carbon utilization potential, and immobilization efficiency vary across biochar types: implications for bioinoculant formulation   
+<td>Frontiers in Microbiology</td>
+    <td>Om Prakash</td></td>
+    <td>2026</td>
+</tr>
+
+     <tr>
+    <th scope="row"></th>
+    <td>
+        <a target="_blank" href="https://link.springer.com/article/10.1007/s43621-025-02545-3">
+Patent landscape analysis on the use of artificial intelligence in carbon capture and utilization technologies    </td>
+    <td>Discover Sustainability</td>
+    <td>Om Prakash</td></td>
+    <td>2026</td>
+</tr>
+     <tr>
+    <th scope="row"></th>
+    <td>
+        <a target="_blank" href="https://www.mdpi.com/1996-1073/19/15/3553">
+Textbook Reuse as a Circular Strategy for Reducing Paper-Linked Environmental Burdens in Education    </td>
+    <td>Circular Economy and Sustainability</td>
+    <td>Om Prakash</td></td>
+    <td>2026</td>
+</tr>
+
+                        
+                        <!---->
      <tr>
     <th scope="row"></th>
     <td>

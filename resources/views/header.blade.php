@@ -190,9 +190,9 @@
 														<li class="menu-item">
 															<a href="<?= url('/institutional-partners'); ?>">Institutional Partners</a>
 														</li>
-														<li class="menu-item">
-															<a href="<?= url('/international-national-collaborations-individual'); ?>">International / National Collaborations -Individual</a>
-														</li>
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/international-national-collaborations-individual'); ?>">International / National Collaborations -Individual</a>-->
+														<!--</li>-->
 													</ul>
 												</li>
 											</ul>
@@ -262,18 +262,18 @@
 														<li class="menu-item">
 															<a href="<?= url('/khushboo-tomar'); ?>">Khushboo Tomar</a>
 														</li>
-														<li class="menu-item">
-															<a href="<?= url('/angela-thomas'); ?>">Angela Thomas</a>
-														</li>
-														<li class="menu-item">
-															<a href="<?= url('/kedar-sohoni'); ?>">Kedar Sohoni</a>
-														</li>
-														<li class="menu-item">
-															<a href="<?= url('/sudha-balakrishnan'); ?>">Sudha Balakrishnan</a>
-														</li>
-														<li class="menu-item">
-															<a href="<?= url('/brij-raj'); ?>">Brij Raj</a>
-														</li>
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/angela-thomas'); ?>">Angela Thomas</a>-->
+														<!--</li>-->
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/kedar-sohoni'); ?>">Kedar Sohoni</a>-->
+														<!--</li>-->
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/sudha-balakrishnan'); ?>">Sudha Balakrishnan</a>-->
+														<!--</li>-->
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/brij-raj'); ?>">Brij Raj</a>-->
+														<!--</li>-->
 													</ul>
 												</li>
 												<li class="menu-item menu-item-has-children">
@@ -293,9 +293,9 @@
 														<li class="menu-item">
 															<a href="<?= url('/shwetha-kadam'); ?>">Shwetha Kadam</a>
 														</li>
-														<li class="menu-item">
-															<a href="<?= url('/kshiteeja-dushing'); ?>">Kshiteeja Dushing</a>
-														</li>
+														<!--<li class="menu-item">-->
+														<!--	<a href="<?= url('/kshiteeja-dushing'); ?>">Kshiteeja Dushing</a>-->
+														<!--</li>-->
 													</ul>
 												</li>
 												<li class="menu-item">
