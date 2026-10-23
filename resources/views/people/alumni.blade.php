@@ -38,6 +38,20 @@
             <div class="alumni-container">
                 <div class="row">
                     <!---->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="alumni-card">
+                            <div class="alumi-image-wrapper">
+                                <img src="{{ asset('assets/images/people/kshiteeja-dushing.webp') }}" alt="Freya Patel" class="alumni-image">
+                            </div>
+                            <h3 class="subheading"> Kshiteeja Dushing</h3>
+                            <p><strong>Project Assistant (July 2025 - July 2026)</strong></p>
+                            <div class="social-links">
+                                <a href="https://www.linkedin.com/in/kshiteeja-dushing/" target="_blank"><img src="{{ asset('assets/images/linkdin.svg') }}" alt="LinkedIn"></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    
                                         <div class="col-lg-4 col-md-6">
                         <div class="alumni-card">
                             <div class="alumi-image-wrapper">

@@ -53,102 +53,102 @@
             <div class="tab-content" id="careerTabsContent">
 
                 <!-- POSITIONS SUBTAB -->
-                <div class="tab-pane fade show active" id="positions-content" role="tabpanel" aria-labelledby="positions-tab">
-                    <div class="section-title text-center mb-5">
-                        <h2 class="heading" style="color: #C53034; font-weight: 700;">Open Positions</h2>
-                        <p class="text-muted" style="max-width: 700px; margin: 10px auto 0;">Explore career opportunities at Symbiosis Centre for Climate Change and Sustainability (SCCCS).</p>
-                    </div>
+                <!--<div class="tab-pane fade show active" id="positions-content" role="tabpanel" aria-labelledby="positions-tab">-->
+                <!--    <div class="section-title text-center mb-5">-->
+                <!--        <h2 class="heading" style="color: #C53034; font-weight: 700;">Open Positions</h2>-->
+                <!--        <p class="text-muted" style="max-width: 700px; margin: 10px auto 0;">Explore career opportunities at Symbiosis Centre for Climate Change and Sustainability (SCCCS).</p>-->
+                <!--    </div>-->
 
-                    <div class="row g-4 justify-content-center">
+                <!--    <div class="row g-4 justify-content-center">-->
                         <!-- CARD 1: Postdoctoral Research Fellow (PDRF) -->
-                        <div class="col-lg-6 col-md-12">
-                            <div class="position-small-card">
-                                <div class="card-tag-badge">Position</div>
-                                <div class="position-card-layout">
-                                    <div class="position-thumb-box" onclick="openFlyerModal('{{ asset('assets/images/PDRF.webp') }}', 'Postdoctoral Research Fellow (PDRF)')">
-                                        <img src="{{ asset('assets/images/PDRF.webp') }}" alt="PDRF Flyer" class="img-fluid position-flyer-img">
-                                        <div class="thumb-hover-overlay">
-                                            <span>View Flyer</span>
-                                        </div>
-                                    </div>
-                                    <div class="position-card-details">
-                                        <h3 class="position-card-title">Postdoctoral Research Fellow (PDRF)</h3>
-                                        <p class="position-card-intro">We are looking for passionate researchers with strong academic credentials to work on cutting-edge projects in:</p>
+                <!--        <div class="col-lg-6 col-md-12">-->
+                <!--            <div class="position-small-card">-->
+                <!--                <div class="card-tag-badge">Position</div>-->
+                <!--                <div class="position-card-layout">-->
+                <!--                    <div class="position-thumb-box" onclick="openFlyerModal('{{ asset('assets/images/PDRF.webp') }}', 'Postdoctoral Research Fellow (PDRF)')">-->
+                <!--                        <img src="{{ asset('assets/images/PDRF.webp') }}" alt="PDRF Flyer" class="img-fluid position-flyer-img">-->
+                <!--                        <div class="thumb-hover-overlay">-->
+                <!--                            <span>View Flyer</span>-->
+                <!--                        </div>-->
+                <!--                    </div>-->
+                <!--                    <div class="position-card-details">-->
+                <!--                        <h3 class="position-card-title">Postdoctoral Research Fellow (PDRF)</h3>-->
+                <!--                        <p class="position-card-intro">We are looking for passionate researchers with strong academic credentials to work on cutting-edge projects in:</p>-->
                                         
-                                        <ul class="position-highlights-list">
-                                            <li><span class="emoji-icon">🌿</span> Campus Carbon Sequestration</li>
-                                            <li><span class="emoji-icon">🎯</span> Net-Zero Campus Initiatives</li>
-                                            <li><span class="emoji-icon">🌍</span> Sustainability Research</li>
-                                        </ul>
+                <!--                        <ul class="position-highlights-list">-->
+                <!--                            <li><span class="emoji-icon">🌿</span> Campus Carbon Sequestration</li>-->
+                <!--                            <li><span class="emoji-icon">🎯</span> Net-Zero Campus Initiatives</li>-->
+                <!--                            <li><span class="emoji-icon">🌍</span> Sustainability Research</li>-->
+                <!--                        </ul>-->
 
-                                        <div class="apply-info-box">
-                                            <div class="apply-label">📩 Apply:</div>
-                                            <div class="apply-emails-wrapper">
-                                                <a href="mailto:head_scccs@siu.edu.in" class="email-btn-link">head_scccs@siu.edu.in</a>
-                                                <span class="email-separator">|</span>
-                                                <a href="mailto:dyhead_scccs@siu.edu.in" class="email-btn-link">dyhead_scccs@siu.edu.in</a>
-                                            </div>
-                                        </div>
+                <!--                        <div class="apply-info-box">-->
+                <!--                            <div class="apply-label">📩 Apply:</div>-->
+                <!--                            <div class="apply-emails-wrapper">-->
+                <!--                                <a href="mailto:head_scccs@siu.edu.in" class="email-btn-link">head_scccs@siu.edu.in</a>-->
+                <!--                                <span class="email-separator">|</span>-->
+                <!--                                <a href="mailto:dyhead_scccs@siu.edu.in" class="email-btn-link">dyhead_scccs@siu.edu.in</a>-->
+                <!--                            </div>-->
+                <!--                        </div>-->
 
-                                        <div class="card-action-bar mt-3">
-                                            <button type="button" class="btn btn-outline-danger btn-sm rounded-pill font-weight-bold" onclick="openFlyerModal('{{ asset('assets/images/PDRF.webp') }}', 'Postdoctoral Research Fellow (PDRF)')">
-                                                <i class="far fa-image"></i> View Flyer
-                                            </button>
-                                            <a href="mailto:head_scccs@siu.edu.in?cc=dyhead_scccs@siu.edu.in&subject=Application for Postdoctoral Research Fellow (PDRF)" class="btn btn-danger btn-sm rounded-pill font-weight-bold px-3">
-                                                Apply Now <i class="fas fa-paper-plane ms-1"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                <!--                        <div class="card-action-bar mt-3">-->
+                <!--                            <button type="button" class="btn btn-outline-danger btn-sm rounded-pill font-weight-bold" onclick="openFlyerModal('{{ asset('assets/images/PDRF.webp') }}', 'Postdoctoral Research Fellow (PDRF)')">-->
+                <!--                                <i class="far fa-image"></i> View Flyer-->
+                <!--                            </button>-->
+                <!--                            <a href="mailto:head_scccs@siu.edu.in?cc=dyhead_scccs@siu.edu.in&subject=Application for Postdoctoral Research Fellow (PDRF)" class="btn btn-danger btn-sm rounded-pill font-weight-bold px-3">-->
+                <!--                                Apply Now <i class="fas fa-paper-plane ms-1"></i>-->
+                <!--                            </a>-->
+                <!--                        </div>-->
+                <!--                    </div>-->
+                <!--                </div>-->
+                <!--            </div>-->
+                <!--        </div>-->
 
                         <!-- CARD 2: Assistant Professor -->
-                        <div class="col-lg-6 col-md-12">
-                            <div class="position-small-card">
-                                <div class="card-tag-badge">Position</div>
-                                <div class="position-card-layout">
-                                    <div class="position-thumb-box" onclick="openFlyerModal('{{ asset('assets/images/Assistant_Professor.webp') }}', 'Assistant Professor')">
-                                        <img src="{{ asset('assets/images/Assistant_Professor.webp') }}" alt="Assistant Professor Flyer" class="img-fluid position-flyer-img">
-                                        <div class="thumb-hover-overlay">
-                                            <span> View Flyer</span>
-                                        </div>
-                                    </div>
-                                    <div class="position-card-details">
-                                        <h3 class="position-card-title">Assistant Professor</h3>
-                                        <p class="position-card-intro">We are looking for passionate academicians with strong research credentials to work in multidisciplinary areas including:</p>
+                <!--        <div class="col-lg-6 col-md-12">-->
+                <!--            <div class="position-small-card">-->
+                <!--                <div class="card-tag-badge">Position</div>-->
+                <!--                <div class="position-card-layout">-->
+                <!--                    <div class="position-thumb-box" onclick="openFlyerModal('{{ asset('assets/images/Assistant_Professor.webp') }}', 'Assistant Professor')">-->
+                <!--                        <img src="{{ asset('assets/images/Assistant_Professor.webp') }}" alt="Assistant Professor Flyer" class="img-fluid position-flyer-img">-->
+                <!--                        <div class="thumb-hover-overlay">-->
+                <!--                            <span> View Flyer</span>-->
+                <!--                        </div>-->
+                <!--                    </div>-->
+                <!--                    <div class="position-card-details">-->
+                <!--                        <h3 class="position-card-title">Assistant Professor</h3>-->
+                <!--                        <p class="position-card-intro">We are looking for passionate academicians with strong research credentials to work in multidisciplinary areas including:</p>-->
                                         
-                                        <ul class="position-highlights-list">
-                                            <li><span class="emoji-icon">🌿</span> Climate Change</li>
-                                            <li><span class="emoji-icon">🧪</span> Environmental Health</li>
-                                            <li><span class="emoji-icon">♻️</span> Carbon Capture</li>
-                                            <li><span class="emoji-icon">🌱</span> Sustainable Agriculture</li>
-                                            <li><span class="emoji-icon">🧬</span> Bioinformatics</li>
-                                        </ul>
+                <!--                        <ul class="position-highlights-list">-->
+                <!--                            <li><span class="emoji-icon">🌿</span> Climate Change</li>-->
+                <!--                            <li><span class="emoji-icon">🧪</span> Environmental Health</li>-->
+                <!--                            <li><span class="emoji-icon">♻️</span> Carbon Capture</li>-->
+                <!--                            <li><span class="emoji-icon">🌱</span> Sustainable Agriculture</li>-->
+                <!--                            <li><span class="emoji-icon">🧬</span> Bioinformatics</li>-->
+                <!--                        </ul>-->
 
-                                        <div class="apply-info-box">
-                                            <div class="apply-label">📩 Apply:</div>
-                                            <div class="apply-emails-wrapper">
-                                                <a href="mailto:head_scccs@siu.edu.in" class="email-btn-link">head_scccs@siu.edu.in</a>
-                                                <span class="email-separator">|</span>
-                                                <a href="mailto:dyhead_scccs@siu.edu.in" class="email-btn-link">dyhead_scccs@siu.edu.in</a>
-                                            </div>
-                                        </div>
+                <!--                        <div class="apply-info-box">-->
+                <!--                            <div class="apply-label">📩 Apply:</div>-->
+                <!--                            <div class="apply-emails-wrapper">-->
+                <!--                                <a href="mailto:head_scccs@siu.edu.in" class="email-btn-link">head_scccs@siu.edu.in</a>-->
+                <!--                                <span class="email-separator">|</span>-->
+                <!--                                <a href="mailto:dyhead_scccs@siu.edu.in" class="email-btn-link">dyhead_scccs@siu.edu.in</a>-->
+                <!--                            </div>-->
+                <!--                        </div>-->
 
-                                        <div class="card-action-bar mt-3">
-                                            <button type="button" class="btn btn-outline-danger btn-sm rounded-pill font-weight-bold" onclick="openFlyerModal('{{ asset('assets/images/Assistant_Professor.webp') }}', 'Assistant Professor')">
-                                                <i class="far fa-image"></i> View Flyer
-                                            </button>
-                                            <a href="mailto:head_scccs@siu.edu.in?cc=dyhead_scccs@siu.edu.in&subject=Application for Assistant Professor" class="btn btn-danger btn-sm rounded-pill font-weight-bold px-3">
-                                                Apply Now <i class="fas fa-paper-plane ms-1"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <!--                        <div class="card-action-bar mt-3">-->
+                <!--                            <button type="button" class="btn btn-outline-danger btn-sm rounded-pill font-weight-bold" onclick="openFlyerModal('{{ asset('assets/images/Assistant_Professor.webp') }}', 'Assistant Professor')">-->
+                <!--                                <i class="far fa-image"></i> View Flyer-->
+                <!--                            </button>-->
+                <!--                            <a href="mailto:head_scccs@siu.edu.in?cc=dyhead_scccs@siu.edu.in&subject=Application for Assistant Professor" class="btn btn-danger btn-sm rounded-pill font-weight-bold px-3">-->
+                <!--                                Apply Now <i class="fas fa-paper-plane ms-1"></i>-->
+                <!--                            </a>-->
+                <!--                        </div>-->
+                <!--                    </div>-->
+                <!--                </div>-->
+                <!--            </div>-->
+                <!--        </div>-->
+                <!--    </div>-->
+                <!--</div>-->
 
                 <!-- VOLUNTEER SUBTAB -->
                 <div class="tab-pane fade" id="volunteer-content" role="tabpanel" aria-labelledby="volunteer-tab">

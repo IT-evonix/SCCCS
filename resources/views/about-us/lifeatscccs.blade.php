@@ -21,7 +21,7 @@
     <!-- BANNER SECTION END -->
 
     <!-- Breadcrumb Start -->
-     <div class="bredcrumb_section">
+    <div class="bredcrumb_section">
         <div class="container">
             <ul>
                 <li><a href="<?= url('/'); ?>">Home</a></li> /
@@ -29,13 +29,13 @@
                 <li>Life at SCCCS</li>
             </ul>
         </div>
-     </div>
+    </div>
     <!-- Breadcrumb End -->
 
     <div class="gallery_main_sec">
         <div class="container">
             <div class="gallery_main_box">
-                 <!-- <div class="heading">Gallery</div> -->
+                <!-- <div class="heading">Gallery</div> -->
                 <ul class="nav tabbing-btn mb-3 mobilescroll" id="pills-tab" role="tablist">
                     <li class="nav-item" role="presentation">
                         <button class="nav-link active" id="gallery_tabbing1" data-bs-toggle="pill" data-bs-target="#gallerytabbing1" type="button" role="tab" aria-controls="gallerytabbing1" aria-selected="true">Infrastructure</button>
@@ -83,14 +83,14 @@
                             </div>
                             <div class="gallery_box">
                                 <a
-                                    href="{{ asset('assets/images/gallery/infrastructure/Bio-Safety-Cabinet.webp') }}" data-fancybox="gallerytabbing1" data-caption="" >
+                                    href="{{ asset('assets/images/gallery/infrastructure/Bio-Safety-Cabinet.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
                                     <img src="{{ asset('assets/images/gallery/infrastructure/Bio-Safety-Cabinet.webp') }}" alt="Student Activities" />
                                 </a>
                                 <h6>Biosafety Cabinet (Laminar Air Flow) Microfilt MFT Class II TYPE A2</h6>
                             </div>
                             <div class="gallery_box">
                                 <a
-                                    href="{{ asset('assets/images/gallery/infrastructure/UV-Vis-Spectrophotomet-er.webp') }}" data-fancybox="gallerytabbing1" data-caption="" >
+                                    href="{{ asset('assets/images/gallery/infrastructure/UV-Vis-Spectrophotomet-er.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
                                     <img src="{{ asset('assets/images/gallery/infrastructure/UV-Vis-Spectrophotomet-er.webp') }}" alt="Symbiosis Society" />
                                 </a>
                                 <h6>UV-Vis Spectrophotometer – Labman (LMSPUV1900)</h6>
@@ -276,7 +276,7 @@
                                 <h6>Anaerobic Glass Jars – 2 Nos</h6>
                             </div>
                             <div class="gallery_box">
-                                <a href="{{ asset('assets/images/gallery/infrastructure/High-Performance-Work-Station-and-Server.webp') }}" data-fancybox="gallerytabbing1" data-caption="" >
+                                <a href="{{ asset('assets/images/gallery/infrastructure/High-Performance-Work-Station-and-Server.webp') }}" data-fancybox="gallerytabbing1" data-caption="">
                                     <img src="{{ asset('assets/images/gallery/infrastructure/High-Performance-Work-Station-and-Server.webp') }}" alt="Student Activities" />
                                 </a>
                                 <h6>HP Server and Workstation</h6>
@@ -334,25 +334,25 @@
                     <div class="tab-pane fade" id="gallerytabbing2" role="tabpanel" aria-labelledby="gallery_tabbing2">
                         <div class="gallery_main_box_inner">
                             <!--start-->
-                              <a href="{{ asset('assets/images/gallery/lab-life/Enrichment-Sludge.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/lab-life/Enrichment-Sludge.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/Enrichment-Sludge.webp') }}" alt="Lab life">
                             </a>
-                                                                                    <a href="{{ asset('assets/images/gallery/lab-life/Lab_Life _ Dr_Ankita_Chopra.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/lab-life/Lab_Life _ Dr_Ankita_Chopra.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/Lab_Life _ Dr_Ankita_Chopra.webp') }}" alt="Lab life">
                             </a>
-                                                        <a href="{{ asset('assets/images/gallery/lab-life/Lab_life.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/lab-life/Lab_life.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/Lab_life.webp') }}" alt="Lab life">
                             </a>
-                                                        <a href="{{ asset('assets/images/gallery/lab-life/Lab_Life_2.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/lab-life/Lab_Life_2.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/Lab_Life_2.webp') }}" alt="Lab life">
                             </a>
 
-                            
+
                             <!--end-->
-                                                        <a href="{{ asset('assets/images/gallery/lab-life/tablife1-july.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/lab-life/tablife1-july.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/tablife1-july.webp') }}" alt="Lab life">
                             </a>
-                            
+
                             <a href="{{ asset('assets/images/gallery/lab-life/tablife1.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/tablife1.webp') }}" alt="Lab life">
                             </a>
@@ -392,10 +392,10 @@
                             <a href="{{ asset('assets/images/gallery/lab-life/tablife13.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/tablife13.webp') }}" alt="Lab life">
                             </a>
-                             <a href="{{ asset('assets/images/gallery/lab-life/tablife14.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/lab-life/tablife14.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/tablife14.webp') }}" alt="Lab life">
                             </a>
-                             <a href="{{ asset('assets/images/gallery/lab-life/tablife15.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/lab-life/tablife15.webp') }}" data-fancybox="gallerytabbing2" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/lab-life/tablife15.webp') }}" alt="Lab life">
                             </a>
                         </div>
@@ -451,6 +451,17 @@
                     </div>
                     <div class="tab-pane fade" id="gallerytabbing4" role="tabpanel" aria-labelledby="gallery_tabbing4">
                         <div class="gallery_main_box_inner">
+                            <!-- new media  -->
+                            <a href="{{ asset('assets/images/gallery/social-gatherings/latest-social-gatherings1.webp') }}" data-fancybox="gallerytabbing4" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/social-gatherings/latest-social-gatherings1.webp') }}" alt="Social Gatherings">
+                            </a> <a href="{{ asset('assets/images/gallery/social-gatherings/latest-social-gatherings2.webp') }}" data-fancybox="gallerytabbing4" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/social-gatherings/latest-social-gatherings2.webp') }}" alt="Social Gatherings">
+                            </a> <a href="{{ asset('assets/images/gallery/social-gatherings/latest-social-gatherings3.webp') }}" data-fancybox="gallerytabbing4" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/social-gatherings/latest-social-gatherings3.webp') }}" alt="Social Gatherings">
+                            </a> <a href="{{ asset('assets/images/gallery/social-gatherings/latest-social-gatherings4.webp') }}" data-fancybox="gallerytabbing4" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/social-gatherings/    latest-social-gatherings4.webp') }}" alt="Social Gatherings">
+                            </a>
+                            <!-- end new media -->
                             <a href="{{ asset('assets/images/gallery/social-gatherings/social-gatherings1.webp') }}" data-fancybox="gallerytabbing4" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/social-gatherings/social-gatherings1.webp') }}" alt="Social Gatherings">
                             </a>
@@ -562,12 +573,25 @@
                             <a href="{{ asset('assets/images/gallery/creatives/creative20.webp') }}" data-fancybox="gallerytabbing5" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/creatives/creative20.webp') }}" alt="Symbiosis Society">
                             </a>
-                          
+
 
                         </div>
                     </div>
                     <div class="tab-pane fade" id="gallerytabbing6" role="tabpanel" aria-labelledby="gallery_tabbing6">
                         <div class="gallery_main_box_inner">
+                            <!-- new media  Event-->
+                            <a href="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings1.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings1.webp') }}" alt="Symbiosis Society">
+                            </a> <a href="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings2.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings2.webp') }}" alt="Symbiosis Society">
+                            </a> <a href="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings3.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings3.webp') }}" alt="Symbiosis Society">
+                            </a> <a href="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings4.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings4.webp') }}" alt="Symbiosis Society">
+                            </a> <a href="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings5.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/latest-events-and-meetings5.webp') }}" alt="Symbiosis Society">
+                            </a>
+                            <!-- new media event End -->
                             <a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings1.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings1.webp') }}" alt="Symbiosis Society">
                             </a>
@@ -641,63 +665,63 @@
                                 <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings24.webp') }}" alt="Campus View">
                             </a>
                             <a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings25.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
-    <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings25.webp') }}" alt="Campus View">
-</a>
-<a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings26.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
-    <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings26.webp') }}" alt="Campus View">
-</a>
-<a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings27.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
-    <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings27.webp') }}" alt="Campus View">
-</a>
-<a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings28.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
-    <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings28.webp') }}" alt="Campus View">
-</a>
-<a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings29.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
-    <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings29.webp') }}" alt="Campus View">
-</a>
-<a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings30.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
-    <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings30.webp') }}" alt="Campus View">
-</a>
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings25.webp') }}" alt="Campus View">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings26.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings26.webp') }}" alt="Campus View">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings27.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings27.webp') }}" alt="Campus View">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings28.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings28.webp') }}" alt="Campus View">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings29.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings29.webp') }}" alt="Campus View">
+                            </a>
+                            <a href="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings30.webp') }}" data-fancybox="gallerytabbing6" data-caption="">
+                                <img src="{{ asset('assets/images/gallery/events-and-meetings/events-and-meetings30.webp') }}" alt="Campus View">
+                            </a>
                         </div>
                     </div>
                     <div class="tab-pane fade" id="gallerytabbing7" role="tabpanel" aria-labelledby="gallery_tabbing7">
                         <div class="gallery_main_box_inner">
-                              <a href="{{ asset('assets/images/gallery/research-field-work/Field_work111.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/Field_work111.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/Field_work111.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/Field_work112.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/Field_work112.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/Field_work112.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/Field_work113.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/Field_work113.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/Field_work113.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/Field_work114.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/Field_work114.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/Field_work114.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/F1.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/F1.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/F1.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/F2.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/F2.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/F2.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/F3.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/F3.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/F3.webp') }}" alt="Research and field Work">
                             </a>
-                              
-                              <a href="{{ asset('assets/images/gallery/research-field-work/F5.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+
+                            <a href="{{ asset('assets/images/gallery/research-field-work/F5.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/F5.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/F6.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/F6.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/F6.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/F7.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/F7.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/F7.webp') }}" alt="Research and field Work">
                             </a>
-                              <a href="{{ asset('assets/images/gallery/research-field-work/Field_Work _Dr_Ankita_Chopra.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+                            <a href="{{ asset('assets/images/gallery/research-field-work/Field_Work _Dr_Ankita_Chopra.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/Field_Work _Dr_Ankita_Chopra.webp') }}" alt="Research and field Work">
                             </a>
-                            
-                              <a href="{{ asset('assets/images/gallery/research-field-work/Field-work.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
+
+                            <a href="{{ asset('assets/images/gallery/research-field-work/Field-work.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
                                 <img src="{{ asset('assets/images/gallery/research-field-work/Field-work.webp') }}" alt="Research and field Work">
                             </a>
                             <a href="{{ asset('assets/images/gallery/research-field-work/research-field-work1.webp') }}" data-fancybox="gallerytabbing7" data-caption="">
@@ -791,7 +815,6 @@
             </div>
         </div>
     </div>
-      
+
 </main>
 @include('footer')
-

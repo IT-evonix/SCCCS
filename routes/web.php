@@ -309,38 +309,38 @@ Route::get('/ujjwala-waghmare', function () {
     return view('people.ujjwala-waghmare', ['data_arr' => $data_arr]);
 });
 
-Route::get('/brij-raj', function () {
-    $data_arr = array();
-    $data_arr['title'] = "Brij Raj";
-    $data_arr['keywords'] = "Doctoral Students";
-    $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
-    $data_arr['canonical'] = "";
-    return view('people.brij-raj', ['data_arr' => $data_arr]);
-});
-Route::get('/angela-thomas', function () {
-    $data_arr = array();
-    $data_arr['title'] = "Angela Thomas";
-    $data_arr['keywords'] = "Doctoral Students";
-    $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
-    $data_arr['canonical'] = "";
-    return view('people.angela-thomas', ['data_arr' => $data_arr]);
-});
-Route::get('/sudha-balakrishnan', function () {
-    $data_arr = array();
-    $data_arr['title'] = "Sudha Balakrishnan";
-    $data_arr['keywords'] = "Doctoral Students";
-    $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
-    $data_arr['canonical'] = "";
-    return view('people.sudha-balakrishnan', ['data_arr' => $data_arr]);
-});
-Route::get('/kedar-sohoni', function () {
-    $data_arr = array();
-    $data_arr['title'] = "Kedar Sohoni";
-    $data_arr['keywords'] = "Doctoral Students";
-    $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
-    $data_arr['canonical'] = "";
-    return view('people.kedar-sohoni', ['data_arr' => $data_arr]);
-});
+// Route::get('/brij-raj', function () {
+//     $data_arr = array();
+//     $data_arr['title'] = "Brij Raj";
+//     $data_arr['keywords'] = "Doctoral Students";
+//     $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+//     $data_arr['canonical'] = "";
+//     return view('people.brij-raj', ['data_arr' => $data_arr]);
+// });
+// Route::get('/angela-thomas', function () {
+//     $data_arr = array();
+//     $data_arr['title'] = "Angela Thomas";
+//     $data_arr['keywords'] = "Doctoral Students";
+//     $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+//     $data_arr['canonical'] = "";
+//     return view('people.angela-thomas', ['data_arr' => $data_arr]);
+// });
+// Route::get('/sudha-balakrishnan', function () {
+//     $data_arr = array();
+//     $data_arr['title'] = "Sudha Balakrishnan";
+//     $data_arr['keywords'] = "Doctoral Students";
+//     $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+//     $data_arr['canonical'] = "";
+//     return view('people.sudha-balakrishnan', ['data_arr' => $data_arr]);
+// });
+// Route::get('/kedar-sohoni', function () {
+//     $data_arr = array();
+//     $data_arr['title'] = "Kedar Sohoni";
+//     $data_arr['keywords'] = "Doctoral Students";
+//     $data_arr['description'] = "Symbiosis Centre for Climate Change and Sustainability (SCCCS).";
+//     $data_arr['canonical'] = "";
+//     return view('people.kedar-sohoni', ['data_arr' => $data_arr]);
+// });
 Route::get('/shwetha-kadam', function () {
     $data_arr = array();
     $data_arr['title'] = "Shwetha Kadam";
